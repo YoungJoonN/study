@@ -18,5 +18,17 @@
 	<Reference> 
 	https://y-oni.tistory.com/159?category=939531
 	만들면서 배우는 Git GitHub입문 / 윤웅식 지음 / 2015
-
 		
+	스테이징 영역(Staging Area): 작업중인 디렉토리에서 스테이징 영역에 파일 추가, add	
+	$git add 파일명
+
+	리파지토리(Repository): 스테이징 영역의 파일을 로컬저장소(내컴퓨터)에 반영, commit
+	$ git commit -m "내용"
+
+	깃허브 리파지토리(Repository): 로컬저장소의 내역을 원격저장소(깃허브)에 업로드, push
+	$ git push 원격저장소별칭 로컬프랜치이름
+	$ git push origin main
+	$ git push origin --all
+
+	$ git status
+	
