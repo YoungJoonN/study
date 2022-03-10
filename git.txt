@@ -19,6 +19,17 @@
 		git config --global user.email "이메일@abc.com"	
 
 	
+○ 깃허브 설정
+	<Reference> 
+	https://query.tistory.com/entry/GitHub-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC-PublicPrivate-%EB%B3%80%EA%B2%BD%EB%B0%A9%EB%B2%95
+
+	- [GitHub] 리포지토리 공개/비공개 설정 변경 방법 2021. 8. 17. 20:29
+		
+	Settings 페이지로 이동한 뒤, 페이지를 맨 밑에까지 스크롤해서 내리면, 붉은색 테두리에 붉은색 버튼들로 이루어진 Danger Zone을 발견하실 수 있습니다. 여기서 첫 번째 메뉴인 Change repository visibility (This repository is currently public 혹은 private)를 변경하기 위해 우측에 위치한 Change visibility를 선택합니다. 
+
+
+
+
 
 
 ○ 깃, 깃허브 사용법
