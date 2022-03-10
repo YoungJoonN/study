@@ -1,0 +1,35 @@
+[2022.03.10]
+
+○ 
+	<Reference> 
+
+○ GitHub 무료 계정과 프로 플랜의 차이
+	<Reference> https://www.lainyzine.com/ko/article/how-to-subscribe-to-the-pro-plan-in-your-github-personal-account/#github-%EB%AC%B4%EB%A3%8C-%EA%B3%84%EC%A0%95%EA%B3%BC-%ED%94%84%EB%A1%9C-%ED%94%8C%EB%9E%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4
+
+	GitHub Actions 사용 시간이 월 2,000분에서 3,000분으로 늘어납니다.
+	GitHub Packages 용량이 500MB에서 2GB로 늘어납니다.
+
+○ GitHub 나무위키
+	원래는 공개 프로젝트만 무료였고 비공개 프로젝트는 결제를 해야 했으나, MS에 인수된 이후 2019년 1월 초부터 비공개 저장소를 무료로 제공하기 시작했고#, 2020년 4월 중순부터 비공개 저장소 공동 작업자수 제한도 풀렸다.
+	<Reference> https://namu.wiki/w/GitHub
+
+
+
+○ GitLab VS GitHub 2021-06-24
+	<Reference> https://www.affdu.com/ko/gitlab-vs-github-which-is-better.html
+
+
+○ GitHub Pages를 이용한 무료 홈페이지 만들기	2021. 10. 10. 13:14
+	<Reference> https://blog.naver.com/PostView.naver?blogId=yangwonder&logNo=222532625954&categoryNo=0&parentCategoryNo=9&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search
+
+
+○ Github에서 main(master) 브랜치에 merge 하는 실수를 방지하기
+
+	기본 브랜치(Default branch)를 master가 아닌 다른 브랜치로 변경 하자 
+		Github > Repository로 이동 > Settings > branches탭 클릭
+
+	Branch protection rules 활용하기
+		 Add rule을 눌러 브랜치를 보호하기 위한 규칙을 설정 할 수 있다.
+	
+	<Reference> 
+	https://www.charlezz.com/?p=45427
