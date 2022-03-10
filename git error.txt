@@ -1,0 +1,17 @@
+[2022.03.10]
+
+○ There isn’t anything to compare.
+main and master are entirely different commit histories.
+
+	만약 강제로 주입해도 되는 상황이라면, git bash에서 
+	아래와 같이 진행해서 해결할 수 있다.
+
+	git checkout master
+	git branch main master -f
+	git checkout main
+	git push origin main -f
+
+
+
+	<Reference> 
+	https://kim6394.tistory.com/254
