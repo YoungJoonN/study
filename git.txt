@@ -1,5 +1,12 @@
 [2022.03.10]
 
+<<체크>> 
+	- 사용자이름, 이메일 변경 방법 찾아보기 2022.03.10
+	- 
+	
+	
+
+
 ○ 깃 설치
 
 	<Reference> 
@@ -11,13 +18,17 @@
 		git config --global user.name "사용자이름"
 		git config --global user.email "이메일@abc.com"	
 
-	<<체크>> : 사용자이름, 이메일 변경 방법 찾아보기
+	
 
 
 ○ 깃, 깃허브 사용법
 	<Reference> 
 	https://y-oni.tistory.com/159?category=939531
+	https://y-oni.tistory.com/192?category=939531
+	https://mintaku.tistory.com/9
+	https://sudo-minz.tistory.com/10
 	만들면서 배우는 Git GitHub입문 / 윤웅식 지음 / 2015
+
 		
 	스테이징 영역(Staging Area): 작업중인 디렉토리에서 스테이징 영역에 파일 추가, add	
 	$git add 파일명
@@ -36,4 +47,42 @@
 	$ git init
 
 
+	Git Bash에서 git branch -M main 명령어를 입력하면
+	기본 브랜치가 master가 아닌 main으로 변경
+	git branch -M main
+	
 
+	git init
+		깃으로 관리하겠다는 선언.
+		깃으로 관리할 프로젝트 폴더 경로에서 커맨드라인으로 입력.
+		해당 폴더 내에 숨김 폴더로 .git 이라는 폴더가 생성된다.
+
+	.gitignore 파일 생성
+		깃에서 제외시킬 파일 및 폴더 정보를 담는 설정 파일.
+		.gitignore 라는 이름의 텍스트 파일.
+		.gitignore 문법 예시
+
+
+
+	git add 파일명
+		스테이지 단계로 스테이징 시키는 명령어.
+		>>파일명 대신 점(.)을 쓰면 변경사항이 있는 모든 파일을 스테이징한다.<<
+
+	git commit -m "메시지"
+		커밋
+		스테이징된 파일들의 변경사항을 적용하여 새로운 버전으로 저장.
+		메시지와 함께 저장
+
+	
+	add 와 commit 두 명령어의 반복으로 기본적인 버전 관리
+		git pull
+		git init - 코드 수정 -  git add . -  git commit -m ‘변경내용’
+		git push
+
+	git commit -am "스태이징과 커밋을 한번에!"
+	가끔 이전 커밋에 미쳐 포함하지 못한 코드가 있을 수 있는데, 이전 커밋에 현재 변경 내용을 추가할 때는 --amend 옵션을 사용
+
+
+	git remote add origin 깃저장소주소
+
+	git remote -v
