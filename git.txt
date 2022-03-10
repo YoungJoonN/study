@@ -1,0 +1,22 @@
+[2022.03.10]
+
+○ 깃 설치
+
+	<Reference> 
+	https://taewow.tistory.com/13
+	https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98
+	https://git-scm.com/download/win
+
+	- 사용자 이름/이메일 등록
+		git config --global user.name "사용자이름"
+		git config --global user.email "이메일@abc.com"	
+
+	<<체크>> : 사용자이름, 이메일 변경 방법 찾아보기
+
+
+○ 깃, 깃허브 사용법
+	<Reference> 
+	https://y-oni.tistory.com/159?category=939531
+	만들면서 배우는 Git GitHub입문 / 윤웅식 지음 / 2015
+
+		
