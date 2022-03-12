@@ -97,3 +97,8 @@
 	git remote add origin 깃저장소주소
 
 	git remote -v
+
+
+○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
+	git clone 저장소주소
+
