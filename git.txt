@@ -111,6 +111,8 @@
 
 	<Reference> 
 	https://www.lainyzine.com/ko/article/how-to-set-git-repository-username-and-email/
+	https://dlsdn73.tistory.com/1171
+	https://computer-science-student.tistory.com/364
 
 	- 저장소 별로 git 사용자와 이메일 정보 설정 : --global 없이 git config 사용
 		$ git config user.name "이름"
@@ -121,6 +123,8 @@
 		설정된 이름
 		$ git config user.email
 		설정된 이메일
+	- 변경 : 초기 설정과 같은 방식으로. (overwrite 개념?)
+
 	- Git 사용자 이름과 이메일 정보 삭제
 		# 전역 설정 삭제
 		$ git config --global --unset user.name
