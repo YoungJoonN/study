@@ -3,6 +3,9 @@
 	<Reference> 
 	스무디 한 잔 마시며 끝내는 리액트+TDD / 김정현/ 2021
 	https://itworldyo.tistory.com/124
+	https://digiconfactory.tistory.com/entry/CHOCOLATEY-%EC%9C%88%EB%8F%84%EC%9A%B0-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%84%A4%EC%B9%98
+	https://ssungkang.tistory.com/entry/React-React-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-create-react-app
+
 
 	- 리액트는 자바스크립트 언어를 기반으로 동작하는 라이브러리이다.
 	- 리액트의 특징
@@ -33,6 +36,41 @@
 		4.선언형 프로그래밍
 			명령형 프로그래밍 VS 선언형 프로그래밍
 		5.컴포넌트 기반
+
+	- 리액트 개발 환경
+		1.CHOCOLATEY 설치
+			초콜라티는 리눅스같은 명령어 방식의 패키지 매니저를 윈도우로 구현한 것
+	
+			https://chocolatey.org/install
+
+			초콜라티를 GUI로 사용하고 싶은 경우,
+				choco install chocolateygui
+
+			초콜라티 매니저에서 다운받은 패키지는  ChocolateyInstall\lib 에 저장
+
+			choco -v  : 버전확인 -> 0.12.1
+		2.노드 설치
+			node --version	-> v17.7.1
+			npm --version	-> 8.5.2
+
+
+	- 리액트를 시작하는 방법
+		1.스크립트 태그 추가
+		2.Webpack과 Babel을 설정하여 개발
+		3.create-react-app
+		4.Next.js 프레임워크
+
+	- create-react-app
+
+		<Reference> 	
+		https://ssungkang.tistory.com/entry/React-React-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-create-react-app
+
+		1. npm install -g create-react-app
+		2. npx create-react-app -version	-> 5.0.0
+		3. npx create-react-app my-app	//리액트 프로젝트 생성
+		4. 리액트 프로젝트 실행
+			cd my-app
+			npm start
 
 
 
