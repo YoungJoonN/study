@@ -73,7 +73,15 @@ q
 			npm start
 
 	- 리액트의 테스트 -Jest
-		
+		: 자바스크립트 테스트 프레임 워크		
+		Jest의 장점
+			1) 제로 설정
+			2) 스냅샷
+			3) 모의 객체
+			4) 테스트 코드의 분리
+			5) 간단한 API
+
+
 		cd jest-test
 		npm init
 		npm install --save-dev jest
@@ -81,7 +89,17 @@ q
 		
 		Matcher
 		1) toEqual	: 오브젝트를 테스트 할때는 toEqual 사용
-		2) toBeTruthy, toBeFalsy
+		2) toBeTruthy, toBeFalsy	: 참, 거짓
+		3) toContain	: 배열에 특정값이 포함되어 있는지 확인
+
+		Jest Expect : https://jestjs.io/docs/en/expect
+
+		코드 커버리지
+		npx jest --coverage
+
+	- 리액트 테스트 - react-testing-library
+
+
 
 
 
