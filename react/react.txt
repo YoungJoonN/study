@@ -59,7 +59,7 @@
 		2.Webpack과 Babel을 설정하여 개발
 		3.create-react-app
 		4.Next.js 프레임워크
-
+q
 	- create-react-app
 
 		<Reference> 	
@@ -73,6 +73,6 @@
 			npm start
 
 	- 리액트의 테스트 -Jest
-
+		
 		
 
