@@ -72,5 +72,7 @@
 			cd my-app
 			npm start
 
+	- 리액트의 테스트 -Jest
 
+		
 

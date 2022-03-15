@@ -37,6 +37,10 @@
 	https://mintaku.tistory.com/9
 	https://sudo-minz.tistory.com/10
 	만들면서 배우는 Git GitHub입문 / 윤웅식 지음 / 2015
+	https://computer-science-student.tistory.com/211
+	https://webisfree.com/2021-09-01/[git]-git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B2%80%EC%83%89%EC%9C%BC%EB%A1%9C-%EC%BB%A4%EB%B0%8B-%ED%95%B4%EC%8B%9C-%EC%B0%BE%EA%B8%B0
+
+
 
 		
 	스테이징 영역(Staging Area): 작업중인 디렉토리에서 스테이징 영역에 파일 추가, add	
@@ -98,6 +102,16 @@
 
 	git show : 커밋 정보 출력
 
+	git log : 지금까지 만든 커밋 확인
+
+	git log --grep "검색어"
+	git log --grep "[f|F]ont"
+	전체 브랜치에서 찾길 원하는 경우 --all 옵션을 사용합니다.
+		git log --all --grep "인사말"
+
+
+	git checkout 커밋아이디	: 해당 커밋으로 이동
+	git check -
 
 
 ○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
