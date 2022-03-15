@@ -5,18 +5,18 @@ const sum = (a, b) => {
 const person = (name, age) => {
 
     return {
-
         name,
         age,
+    };
+};
 
-
-    }
-
-
+const toggle = (a) => {
+    return !a;
 };
 
 module.exports = {
     sum,
     person,
+    toggle,
 };
 

@@ -74,5 +74,14 @@ q
 
 	- 리액트의 테스트 -Jest
 		
+		cd jest-test
+		npm init
+		npm install --save-dev jest
 		
+		
+		Matcher
+		1) toEqual	: 오브젝트를 테스트 할때는 toEqual 사용
+		2) toBeTruthy, toBeFalsy
+
+
 
