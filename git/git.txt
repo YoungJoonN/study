@@ -113,6 +113,7 @@
 	git checkout 커밋아이디	: 해당 커밋으로 이동
 	git check -
 
+	git commit -am
 
 ○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
 	git clone 저장소주소
