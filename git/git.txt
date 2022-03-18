@@ -26,10 +26,7 @@
 	Settings 페이지로 이동한 뒤, 페이지를 맨 밑에까지 스크롤해서 내리면, 붉은색 테두리에 붉은색 버튼들로 이루어진 Danger Zone을 발견하실 수 있습니다. 여기서 첫 번째 메뉴인 Change repository visibility (This repository is currently public 혹은 private)를 변경하기 위해 우측에 위치한 Change visibility를 선택합니다. 
 
 
-
-
-
-
+	
 ○ 깃, 깃허브 사용법
 	<Reference> 
 	https://y-oni.tistory.com/159?category=939531
@@ -115,6 +112,20 @@
 
 	git commit -am
 		ex) git commit -am "git commit -am test"
+
+
+
+○ 팀 개발을 위한 Git GitHub 시작하기 / 정호영,진유림 지음 / 2020
+	<Reference> 
+	팀 개발을 위한 Git GitHub 시작하기 / 정호영,진유림 지음 / 2020
+
+	Git은 도구, 공부만으로는 늘지 않습니다. 책을 읽었다면 이제 Git을 열심히 사용할 차례입니다.
+	추천서적 : Pro Git 2판(https://git-scm.com/book/ko/v2)
+		 Git from the Bottom-up(https://jwiegley.github.io/git-from-the-bottom-up)
+	Q/A
+		https://github.com/Cat-Hanbit/README
+
+
 
 ○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
 	git clone 저장소주소
