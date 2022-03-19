@@ -1,3 +1,6 @@
+○ 
+	<Reference> 
+
 ○ 코드상의 보안상 중요한 비밀번호 관리 방법
 	<Reference> 
 	https://velog.io/@hyundong_kk/github%EC%97%90%EC%84%9C-%EB%82%B4-%EC%BD%94%EB%93%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0
@@ -18,4 +21,10 @@
 	https://zetcode.com/springboot/environment/
 	https://stackoverflow.com/questions/35531661/using-env-variable-in-spring-boots-application-properties
 	https://spring.io/blog/2020/04/23/spring-tips-configuration
+
+
+○ 2020년 웹 개발자가 되기 위한 로드맵
+	<Reference> 
+	https://github.com/pocojang/developer-roadmap
+
 
