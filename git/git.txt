@@ -3,7 +3,9 @@
 	- 
 	
 	
+○ 
 
+	<Reference> 
 
 ○ 깃 설치
 
@@ -199,3 +201,66 @@
 	여기서는 왼쪽의 Set up using an app을 선택해줍니다. 
 	이중 인증을 지원하는 모바일 앱으로는 Google Authenticator, Authy, 1Password 등이 있습니다. 
 	특히 1Password는 데스크탑에서도 이중 인증을 활용할 수 있어서 좀 더 편리하게 활용할 수 있습니다.
+
+
+○ GIT - Commit한 메세지 문구 수정
+
+	<Reference> 
+	https://jw910911.tistory.com/77
+	https://velog.io/@mayinjanuary/git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0-changing-commit-message
+
+	
+	1. 아직 커밋이 local 에 있을 때
+		아직 로컬에서 commit 을 하고 push 는 하지 않아 remote 에 올라가지 않은 상태일 경우
+
+		1.1. 가장 최근의 commit 수정
+			git commit --amend
+			위와 같이 amend 를 이용하면 가장 마지막에 commit 한 내용을 수정할 수 있습니다.
+			git commit --amend 를 사용하고 커밋을 수정할 수 있는 창이 뜨면, 
+			수정을 완료한 후 esc -> :wq(저장 + 창 닫기) 를 해주면 됩니다.
+
+			or
+
+			git commit --amend -m "바꿀 메시지"
+
+		1.2. 더 오래된 commit 수정 or 한 번에 여러 commit 수정
+			커맨드 라인에 git log 를 쳐 보세요.
+
+			로그에서 여태 자신이 한 커밋을 쭉 확인 후 어떤 커밋을 수정할 것인지 확인합니다.
+			만일 위에서부터 세 번째 커밋을 수정해야 한다면
+
+			git rebase -i HEAD~3
+			위 커맨드를 사용하면 현재 작업중인 브랜치의 가장 최근 commit 3개를 보여줌.
+			(3이 들어간 자리에 체크하길 원하는 commit 의 갯수를 집어넣으시면 됩니다!)
+
+			그럼 다음과 같은 창이 뜹니다.
+
+				pick e499d89 Delete CNAME
+				pick 0c39034 Better README
+				pick f7fde4a Change the commit message but push the same commit.
+
+			이젠 수정하고 싶은 커밋 옆의 pick 이라는 문구를 reword 로 바꿔 주면 됩니다.
+
+			두 번째 커밋과 세 번째 커밋을 수정해보도록 하겠습니다.
+
+				pick e499d89 Delete CNAME
+				reword 0c39034 Better README
+				reword f7fde4a Change the commit message but push the same commit.
+			esc -> :wq 를 통해 커밋 리스트를 저장을 해주고 나면, 
+			두 개의 커밋을 각각 수정할 수 있는 창이 순서대로 띄워집니다.
+			원하는대로 커밋을 수정하시고, :wq 를 통해 저장해주세요.
+
+			수정이 잘 되었는지 git log 를 통해 확인합니다.
+
+
+	2. 이미 커밋을 push 해 remote 에 올린 상황일 때
+		커밋이 이미 remote 에 적용된 상황이라면, 
+		force 를 통해 수정된 커밋을 강제로 push 해주어야 합니다.
+
+		github 공식 문서에 따르면 force pushing 을 최대한 사용하지 않아야 한다고 하네요. 
+		push 된 커밋의 로그를 갖고 있던 다른 팀원들이 로그를 수동으로 수정해줘야 함
+
+		local 에서 commit 메세지를 수정한 후, 아래 커맨드를 실행하면 됩니다.
+
+		git push --force 브랜치이름
+	
