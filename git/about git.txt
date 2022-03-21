@@ -3,6 +3,10 @@
 ○ 
 	<Reference> 
 
+○ Git의 commit은 Delta(차이점)이 아니라 Snapshot
+	<Reference> 
+	팀 개발을 위한 Git GitHub 시작하기 / 정호영,진유림 / 2020
+
 ○ GitHub 무료 계정과 프로 플랜의 차이
 	<Reference> https://www.lainyzine.com/ko/article/how-to-subscribe-to-the-pro-plan-in-your-github-personal-account/#github-%EB%AC%B4%EB%A3%8C-%EA%B3%84%EC%A0%95%EA%B3%BC-%ED%94%84%EB%A1%9C-%ED%94%8C%EB%9E%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4
 
