@@ -7,6 +7,17 @@
 
 	<Reference> 
 
+○ git은 어떻게 파일을 저장하고 복구하는가
+
+	<Reference> 
+	https://kotlinworld.com/300
+	https://kwoncheol.me/posts/git-rename-inference
+
+	변경사항을 압축,저장하는 object 폴더
+	
+
+
+
 ○ 깃 설치
 
 	<Reference> 
