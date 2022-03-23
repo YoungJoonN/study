@@ -151,7 +151,11 @@
 		6일차 : Ch 7	브랜치와 관련된 핵심 기능을 CLI 명령어로 복습
 		7일차 : Ch 8,9	Git의 동작 원리, 인증
 
-		
+	원본저장소의 소유자가 협력자로 등록
+		Settings - Collaborators, Add Collaborator	
+	풀리퀘스트 pull request / fork 후 커밋, 원본소유자에게 병합 요청
+	브랜치 : 평행세계, 포크 : 평행우주
+
 
 
 ○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
