@@ -7,6 +7,30 @@
 
 	<Reference> 
 
+
+
+○  git flow
+
+	<Reference> 
+	나의 Git Flow 적응기(겉핥기로 10분만에 익히고 써먹어보자, 백각이불여일행!)	정아마추어 2019. 9. 2. 21:32
+	https://jeong-pro.tistory.com/196
+
+	Git flow, GitHub flow, GitLab flow 15. 12. 16. /  19. 03. 24
+	https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
+
+	Git vs GitHub vs GitLab Flow
+	https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/Git%20vs%20GitHub%20vs%20GitLab%20Flow.md
+
+	우린 Git-flow를 사용하고 있어요   Oct.30.2017 나동호
+	https://techblog.woowahan.com/2553/
+
+	[Git] Upstream, Downstream, Origin	Alledy 2019. 9. 10. 16:23
+	https://developer-alle.tistory.com/315
+
+	적용할 flow를 고민해보자.
+
+	
+
 ○ git은 어떻게 파일을 저장하고 복구하는가
 
 	<Reference> 
@@ -153,8 +177,16 @@
 
 	원본저장소의 소유자가 협력자로 등록
 		Settings - Collaborators, Add Collaborator	
-	풀리퀘스트 pull request / fork 후 커밋, 원본소유자에게 병합 요청
+	※풀리퀘스트 pull request / fork 후 커밋, 원본소유자에게 병합 요청
 	브랜치 : 평행세계, 포크 : 평행우주
+			포크 : 원본저장소의 이력을 보려면 따로 주소를 추가해야 한다.
+	
+	※리베이스 Rebase 묵은 커밋을 방금한 커밋처럼
+		이력을 조작하고 푸시하는 건 다른 개발자에게 위험한 행위여서 
+		무조건 혼자 사용하는 브랜치에서만 해야 함. 
+		특수한 옵션을 붙여서 푸시해야함. 강제 푸시
+
+
 
 
 
