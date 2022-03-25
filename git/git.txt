@@ -203,6 +203,8 @@
 	stash : 변경사항을 잠시 다른 곳에 저장, 커밋은 x
 
 
+	git status		git status -s
+
 
 ○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
 	git clone 저장소주소
