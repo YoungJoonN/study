@@ -215,6 +215,25 @@
 			엄밀하게는 로컬저장소를 의미하지만 넓은 의미로
 			작업폴더를 의미하기도 함.
 
+	옵션 설정하기 (우선 순위는 지역 > 전역 > 시스템)
+		git config --global <옵션명>			지정한 전역 옵션 내용 보기
+		git config --global <옵션명> <새로운 값>	지정한 전역 옵션 값을 새로 설정
+		git config --global --unset <옵션명>		지정한 전역 옵션 값을 삭제
+		git config --local <옵션명>			지정한 지역 옵션 내용 보기
+		git config --local <옵션명> <새로운 값>	지정한 지역 옵션 값을 새로 설정
+		git config --local --unset <옵션명>		지정한 지역 옵션 값을 삭제
+		git config --system <옵션명>			지정한 시스템 옵션 내용 보기
+		git config --system <옵션명> <새로운 값>	지정한 시스템 옵션 값을 새로 설정
+		git config --system --unset <옵션명>		지정한 시스템 옵션 값을 삭제
+		git config --list				현재 프로젝트의 모든 옵션값 보기
+
+
+		git config --global core.editor		기본 에디터 확인
+
+
+
+
+
 
 ○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
 	git clone 저장소주소
