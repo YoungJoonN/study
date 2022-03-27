@@ -230,9 +230,54 @@
 
 		git config --global core.editor		기본 에디터 확인
 
+	기본 CLI 명령어
+	
+		git add 파일1 파일2 ...	파일들을 스테이지에 추가
+		git commit		스테이지에 있는 파일들을 커밋
+		git commit -a		변경된 파일과 삭제된 팡리이 자동으로 스테이징,커밋
+					untracked 파일은 커밋되지 않음
+		git push [-u] [원격저장소별명] [브랜치이름]
+					현재 브랜치에서 새로 생성한 커밋들을 원격저장소에 업로드
+					한번 등록한 후에는 git push 만 입력 해도됨
+					
+		git pull			원격저장소의 변경사항을 워킹트리에 반영
+					git fetch + git merge 명령
+		git fetch [원격저장소별명] [브랜치이름]
+					원격저장소의 브랜치와 커밋을 로컬저장소와 동기화
+					옵션을 생략하면 모은 원격저장소에서 모든 브랜치를 가져옴
+		git merge 브랜치이름
+					지정한 브랜치의 커밋들을 현재 브랜치 및 워킹트리에 반영
+
+		git reset 파일		언스테이징, 스테이지에서 내리기
+					soft, mixed, hard 세가지 옵션, 옵션없이 사용하면 mixed로 동작
+
+		git log			현재 브랜치의 커밋 이력을 보는 명령
+			git log -n<숫자>	전체 커밋 중에서 최신 n개의 커밋만보기
+			git log --oneline --graph --all --decorate
+				--oneline	커밋 메시지를 한줄로 요약. 생략하면 자세히 표시
+				--graph	브랜치 흐름을 그래프로 보여줌
+				--decorate 원래는 --decorate=short 옵션을 의미. 
+					브랜치와 태그 등의	참조를 간결히 표시
+				--all	all 옵션이 없는 경우, HEAD와 관계없는 옵션은 보여주지 않음
+				
+			ex) 
+			git log
+			git log --oneline
+			git log --oneline --graph --decorate
+			git log --oneline --graph --all --decorate
+			git log --oneline -n5
+
+		좋은 커밋 메시지의 7가지 규치
+			1. 제목과 본문을 빈 줄로 분리
+			2. 제목은 50자 이내로
+			3. 제목을 영어로 쓸 경우, 첫 글자는 대문자로
+			4. 제목에 마침표를 넣지 않는다
+			5. 제목을 영어로 쓸 경우 동사원형(현재형)으로 시작
+			6. 본문을 72자 단위로 줄바꿈
+			7. 어떻게 보다 무엇과 왜를 설명
 
 
-
+		
 
 
 ○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
