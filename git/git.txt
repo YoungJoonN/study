@@ -279,6 +279,13 @@
 			git help status
 			git help commit
 
+	원격저장소 관련 CLI 명령어
+		git remote add <원격저장소 이름> <원격저장소 주소>
+			원격저장소를 등록. 여러개 등록할 수 있지만 같은 별명의 원격 저장소는
+			하나만 가질수 있음. 통상 첫 번째 원격저장소를 origin으로 지정
+		git remote -v
+			원격저장소 목록을 살펴봄
+
 		
 
 
