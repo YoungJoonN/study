@@ -286,7 +286,20 @@
 		git remote -v
 			원격저장소 목록을 살펴봄
 
-		
+		git push -u origin main	// push와 동시에 업스트림 지정
+			origin 저장소의 main 브랜치가 로컬저장소의 main 브랜치의 업스트림으로
+			지정되어 이후 git push 가능
+
+		git clone <저장소주소> [새로운 폴더명]
+			폴더명을 생략할 경우 프로젝트 이름과 같은 이름의 폴더가 새로 생성됨
+			저장소 주소가 꼭 원격일 필요가 없으며 로컬 저장소도 git clone 명령으로
+			복제 가능
+		git pull
+			pull = fetch + merge
+
+
+
+
 
 
 ○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
