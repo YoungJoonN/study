@@ -374,6 +374,21 @@
 			git log --online --all 		로그 확인
 
 
+	CLI로 3-way 병합하기
+
+	CLI로 rebase 해보기
+	
+	Git 내부 동작 원리
+
+		git add 명령의 동작 원리
+
+
+
+
+	
+
+
+
 ○ 깃, 깃허브 사용법 : 깃허브의 데이터 가져오기
 	git clone 저장소주소
 
