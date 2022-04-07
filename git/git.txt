@@ -2,10 +2,36 @@
 	- 
 	- 
 	
+○
+	<Reference> 
+
+
 	
-○ 
+○ [공부] 자주 쓰는 Git 명령어 정리
+	 2021. 10. 17. 21:23
 
 	<Reference> 
+	https://choco4study.tistory.com/12
+
+
+	0. Git 영역 정리
+		[1] Working Directory (Local)
+		↓ Add ↓
+		[2] Index (= Staging Area)
+		↓ Commit ↓
+		[3] Repository
+		↓ Push ↓
+		[4] Remote Repository
+
+ 
+
+	1. Git Upload 순서
+		[1] Init : 저장소 생성
+		[2] Add : 파일을 인덱스에 올리기 (= Staging Area)
+		[3] Commit : 로컬 저장소에 올리기
+		[4] Push : 원격 저장소에 올리기
+
+
 
 
 
