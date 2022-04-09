@@ -1,3 +1,15 @@
+○ 
+
+	<Reference> 
+
+
+○ [초보자] React 설치부터 배포까지의 과정을 정리
+
+	<Reference> 
+	https://dev.classmethod.jp/articles/the-process-from-installing-react-to-distributing-it/
+
+
+
 ○ React
 
 	<Reference> 
