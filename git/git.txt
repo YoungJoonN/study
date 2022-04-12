@@ -6,6 +6,20 @@
 	<Reference> 
 
 
+○ github default branch 변경하기 FaustK 2020. 1. 14. 16:14
+	<Reference> 
+	https://dalya-tech.tistory.com/16
+
+	Settings 에서 변경
+
+
+
+○ 깃 허브(GitHub) 브랜치(branch) 병합에 대해서
+	<Reference> 
+	https://dev.classmethod.jp/articles/about-the-merger-of-github-branch/
+
+	원하는 자료는 아니지만 참고.
+
 	
 ○ [공부] 자주 쓰는 Git 명령어 정리
 	 2021. 10. 17. 21:23
