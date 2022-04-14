@@ -6,6 +6,12 @@
 	<Reference> 
 
 
+○ git ignore 설정
+	<Reference> 
+	https://zoosso.tistory.com/835
+
+
+
 ○ github default branch 변경하기 FaustK 2020. 1. 14. 16:14
 	<Reference> 
 	https://dalya-tech.tistory.com/16
