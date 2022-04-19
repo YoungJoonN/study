@@ -3,6 +3,11 @@
 	<Reference> 
 
 
+○ 2020년, PHP 언어가 가지는 의미 2020.9.4
+
+	<Reference> 
+	https://pronist.dev/58
+
 
 ○ PHP에서 단위테스트 시작하기
 처음 PHP에서 단위테스트를 작성하는 데 도움이 되는 몇 가지 이야기입니다.
