@@ -3,6 +3,11 @@
 	<Reference> 
 
 
+○ React Study 참고 사이트
+	<Reference> 
+	https://www.w3schools.com/react/default.asp
+
+
 ○ [초보자] React 설치부터 배포까지의 과정을 정리
 
 	<Reference> 
