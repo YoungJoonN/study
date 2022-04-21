@@ -3,6 +3,59 @@
 	<Reference> 
 
 
+
+
+○ PHP JSON
+
+	<Reference> 
+	https://www.w3schools.com/php/php_ref_json.asp
+
+
+	PHP 5에서 디코딩은 Douglas Crockford의 JSON_checker 기반 파서에 의해 처리됩니다.
+	PHP 7에는 PHP용으로 특별히 작성되고 PHP 라이선스에 따라 라이선스가 부여된 새롭고 향상된 파서가 있습니다.
+
+	설치
+	PHP 5.2.0부터 JSON 함수는 기본적으로 활성화되어 있습니다. 이러한 기능을 사용하기 위해 설치가 필요하지 않습니다.
+
+json_decode(string, assoc, depth, options)
+
+<?php
+$jsonobj = '{"Peter":35,"Ben":37,"Joe":43}';
+
+$obj = json_decode($jsonobj);
+
+echo $obj->Peter;
+echo $obj->Ben;
+echo $obj->Joe;
+?>
+
+
+<?php
+$jsonobj = '{"Peter":35,"Ben":37,"Joe":43}';
+
+$arr = json_decode($jsonobj, true);
+
+echo $arr["Peter"];
+echo $arr["Ben"];
+echo $arr["Joe"];
+?>
+
+json_encode(value, options, depth)
+
+<?php
+$age = array("Peter"=>35, "Ben"=>37, "Joe"=>43);
+
+echo json_encode($age);
+?>
+
+<?php
+$cars = array("Volvo", "BMW", "Toyota");
+
+echo json_encode($cars);
+?>
+
+	
+
 ○ 2020년, PHP 언어가 가지는 의미 2020.9.4
 
 	<Reference> 
