@@ -2,6 +2,10 @@
 
 	<Reference> 
 
+○ PHP 양식 유효성 검사
+
+	<Reference> 
+	https://www.w3schools.com/php/php_form_validation.asp
 
 
 ○ AJAX 소개
