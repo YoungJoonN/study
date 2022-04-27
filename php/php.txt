@@ -1,6 +1,19 @@
 ○ 
 	<Reference> 
 
+
+
+
+
+
+
+
+○ PHP 오류 및 로깅 기능
+	<Reference> 
+	https://www.w3schools.com/php/php_ref_error.asp
+
+
+
 ○ PHP 예제 - AJAX 설문조사
 
 	<Reference> 
