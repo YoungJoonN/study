@@ -2,6 +2,10 @@
 
 	<Reference> 
 
+○ React useReducer Hook
+
+	<Reference> 
+	https://www.w3schools.com/react/react_usereducer.asp
 
 ○ React useRef Hook
 
