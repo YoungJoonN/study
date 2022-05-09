@@ -2,6 +2,10 @@
 
 	<Reference> 
 
+○ Bootstrap 5 Colors
+
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_colors.php
 
 
 ○ Bootstrap 5 Text/Typography
