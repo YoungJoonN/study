@@ -2,6 +2,14 @@
 
 	<Reference> 
 
+
+○ Bootstrap 5 Tables
+
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_tables.php
+
+
+
 ○ Bootstrap 5 Colors
 
 	<Reference> 
