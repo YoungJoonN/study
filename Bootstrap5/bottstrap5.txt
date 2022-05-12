@@ -2,6 +2,11 @@
 
 	<Reference> 
 
+○ Bootstrap 5 Alerts
+
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_alerts.php
+
 
 ○ Bootstrap 5 Jumbotron
 
