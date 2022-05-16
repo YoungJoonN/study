@@ -2,6 +2,11 @@
 
 	<Reference> 
 
+○ Bootstrap 5 Pagination
+
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_pagination.php
+
 
 ○ Bootstrap 5 Spinners
 
