@@ -2,6 +2,12 @@
 
 	<Reference> 
 
+○ Bootstrap 5 Carousel
+
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_carousel.php
+
+
 ○ Bootstrap 5 Navs
 
 	<Reference> 
