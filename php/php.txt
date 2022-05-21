@@ -5,6 +5,24 @@
 
 
 
+○ 모바일에서 전면카메라 선택하는 방법
+
+	<Reference> 
+	https://runebook.dev/ko/docs/dom/media_streams_api/constraints
+
+	https://ssocoit.tistory.com/218?category=966547
+	https://github.com/mdn/translated-content/blob/main/files/ko/web/html/element/input/file/index.html
+	http://docs.tobesoft.com/eduhub#b1fa3153b6300bb9
+	https://developer.mozilla.org/ko/docs/Web/HTML/Element/Input/file
+	https://seopseop911.tistory.com/38
+	
+	해결!
+	//20220521  user  or environment
+    //20220521 navigator.mediaDevices.getUserMedia({ video: { facingMode: "environment" } }).then(function(stream) {
+    navigator.mediaDevices.getUserMedia({ video: { facingMode: "user" } }).then(function(stream) {
+	
+
+
 
 
 

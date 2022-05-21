@@ -2,6 +2,18 @@
 	<Reference> 
 
 
+
+○ 넥사크로플랫폼 17.1
+	<Reference> 
+	http://docs.tobesoft.com/eduhub#198751e358f17d7e
+	http://docs.tobesoft.com/getting_started_nexacro_17_ko#b054f6d0ecccb2c9
+
+	넥사크로플랫폼 애플리케이션을 모바일 앱 형태로 빌드하기 위해서는 Android, iOS 각각에 맞는 개발환경(운영체제, 개발도구, SDK 등)이 필요합니다. 특히, iOS는 Xcode를 설치할 수 있는 Mac 장비가 필요합니다(해당 환경은 소스코드 작성이 아닌 앱빌드 용도로 사용). 
+‘앱빌더’는 이러한 개발환경 구축의 불편함을 해소합니다. 사용자는 넥사크로 스튜디오에서 개발한 앱을 ‘앱빌더’를 이용하여 Android, iOS의 모바일 앱으로 손쉽게 빌드할 수 있습니다. 또한, 빌드한 앱을 모바일 디바이스에 직접 설치하고 동작하는 것을 확인해볼 수 있습니다. 
+투비교육포털 앱은 ‘앱빌더’를 이용하여 진행되었기 때문에 별도의 네이티브 환경 구축이 필요 없습니다.
+
+
+
 ○ gmail 주소 . , + 구분
 	<Reference> 
 	https://cloud.dbinc.co.kr/2015/06/10/gmail-12%EA%B0%80%EC%A7%80-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC/
