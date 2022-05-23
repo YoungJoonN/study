@@ -2,6 +2,10 @@
 
 	<Reference> 
 
+○ Bootstrap 5 Toasts
+
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_toast.php
 
 
 ○ Bootstrap 5 Popover
