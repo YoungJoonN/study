@@ -1,6 +1,14 @@
 ○ 
 	<Reference> 
 
+
+
+○ Bootstrap 5 Range
+
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_form_range.php
+
+
 ○ Bootstrap 5 Checkboxes and Radio buttons
 
 	<Reference> 
