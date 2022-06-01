@@ -2,6 +2,16 @@
 	<Reference> 
 
 
+
+○ Bootstrap 5 Grid System
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_grid_system.php
+
+
+○ Bootstrap 5 Form Validation
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_form_validation.php
+
 ○ Bootstrap 5 Form Floating Labels
 	<Reference> 
 	https://www.w3schools.com/bootstrap5/bootstrap_form_floating_labels.php
