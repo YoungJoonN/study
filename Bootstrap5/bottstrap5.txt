@@ -1,6 +1,12 @@
 ○ 
 	<Reference> 
 
+
+○ Bootstrap 5 Grid Extra Small
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_grid_xsmall.php
+
+
 ○ Bootstrap 5 Grid Stacked to horizontal
 	<Reference> 
 	https://www.w3schools.com/bootstrap5/bootstrap_grid_stacked_to_hor.php
