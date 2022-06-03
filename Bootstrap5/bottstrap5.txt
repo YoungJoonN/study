@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+○ Bootstrap 5 Grid Small
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_grid_small.php
+
+
 ○ Bootstrap 5 Grid Extra Small
 	<Reference> 
 	https://www.w3schools.com/bootstrap5/bootstrap_grid_xsmall.php
