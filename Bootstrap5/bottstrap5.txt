@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ Bootstrap 5 Grid Extra Large
+	<Reference> 
+	https://www.w3schools.com/bootstrap5/bootstrap_grid_xlarge.php
+
 ○ Bootstrap 5 Grid Large
 	<Reference> 
 	https://www.w3schools.com/bootstrap5/bootstrap_grid_large.php
