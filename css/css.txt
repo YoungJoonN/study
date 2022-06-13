@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ W3.CSS Defaults
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_defaults.asp
+
 ○ W3.CSS Cards
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_cards.asp
