@@ -1,6 +1,12 @@
 ○ 
 	<Reference> 
 
+
+○ W3.CSS Text
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_text.asp
+
+
 ○ W3.CSS Google Fonts
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_fonts_google.asp
