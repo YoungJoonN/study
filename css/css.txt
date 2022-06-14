@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ W3.CSS Google Fonts
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_fonts_google.asp
+
 ○ W3.CSS Fonts
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_fonts.asp
