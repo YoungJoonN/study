@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ W3.CSS Round Classes
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_round.asp
+
 ○ W3.CSS Text
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_text.asp
