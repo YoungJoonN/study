@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ W3.CSS Margins
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_margins.asp
+
 ○ W3.CSS Padding
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_padding.asp
