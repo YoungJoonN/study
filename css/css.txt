@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ W3.CSS Quotes
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_quotes.asp
+
 ○ W3.CSS Notes
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_notes.asp
