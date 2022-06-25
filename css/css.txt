@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ W3.CSS Lists
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_lists.asp
+
 ○ W3.CSS Tables
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_tables.asp
