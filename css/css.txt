@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ W3.CSS Input
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_input.asp
+
 ○ W3.CSS Images
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_images.asp
