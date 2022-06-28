@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ W3.CSS Badges
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_badges.asp
+
 ○ W3.CSS Input
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_input.asp
