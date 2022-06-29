@@ -1,7 +1,9 @@
 ○ 
 	<Reference> 
 
-
+○ W3.CSS Icons
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_icons.asp
 
 ○ W3.CSS Tags (Labels and Signs)
 	<Reference> 
