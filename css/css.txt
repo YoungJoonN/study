@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ W3.CSS Tags (Labels and Signs)
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_tags.asp
+
 ○ W3.CSS Badges
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_badges.asp
