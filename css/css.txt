@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ W3.CSS Built-In Responsiveness
+	<Reference>
+	https://www.w3schools.com/w3css/w3css_responsive.asp
+
 ○ W3.CSS Icons
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_icons.asp
