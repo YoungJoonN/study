@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ W3.CSS Effects
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_effects.asp
+
 ○ W3.CSS Animations
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_animate.asp
