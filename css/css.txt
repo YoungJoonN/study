@@ -1,6 +1,12 @@
 ○ 
 	<Reference> 
 
+
+
+○ W3.CSS Dropdowns
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_dropdowns.asp
+
 ○ W3.CSS Bars
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_bars.asp
