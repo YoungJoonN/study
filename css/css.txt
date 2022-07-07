@@ -1,7 +1,9 @@
 ○ 
 	<Reference> 
 
-
+○ W3.CSS Accordions
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_accordions.asp
 
 ○ W3.CSS Dropdowns
 	<Reference> 
