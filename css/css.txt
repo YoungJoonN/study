@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ W3.CSS Sidebar
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_sidebar.asp
+
 ○ W3.CSS Navigation Bars
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_navigation.asp
