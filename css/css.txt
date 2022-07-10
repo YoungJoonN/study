@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ W3.CSS Navigation Tabs
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_tabulators.asp
+
 ○ W3.CSS Sidebar
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_sidebar.asp
