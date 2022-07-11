@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ W3.CSS Pagination
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_pagination.asp
 
 ○ W3.CSS Navigation Tabs
 	<Reference> 
