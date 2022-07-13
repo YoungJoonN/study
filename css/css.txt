@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ W3.CSS Slideshow
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_slideshow.asp
 
 ○ W3.CSS Progress Bars
 	<Reference> 
