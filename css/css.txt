@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ W3.CSS Responsive Fluid Grid
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_grid.asp
+
 ○ W3.CSS Tooltips
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_tooltips.asp
