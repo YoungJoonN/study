@@ -1,6 +1,12 @@
 ○ 
 	<Reference> 
 
+
+
+○ W3.CSS Trends
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_trends.asp
+
 ○ W3.CSS Filters
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_filters.asp
