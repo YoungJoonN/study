@@ -1,8 +1,10 @@
 ○ 
 	<Reference> 
 
-
-
+○ W3.CSS Case Study
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_case.asp
+	
 ○ W3.CSS Trends
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_trends.asp
