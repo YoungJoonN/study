@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ W3.CSS Validation
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_validation.asp
+
 ○ W3.CSS Material Design
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_material.asp
