@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ W3.CSS Color Classes
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_color_classes.asp
+
 ○ W3.CSS - Building a Mobile App
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_mobile.asp
