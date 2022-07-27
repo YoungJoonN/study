@@ -1,6 +1,14 @@
 ○ 
 	<Reference> 
 
+
+
+
+
+○ W3.CSS Flat UI Colors
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_color_flat.asp
+
 ○ W3.CSS Color Material
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_color_material.asp
