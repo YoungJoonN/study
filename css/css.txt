@@ -4,6 +4,9 @@
 
 
 
+○ W3.CSS Metro UI Colors
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_color_metro.asp
 
 ○ W3.CSS Flat UI Colors
 	<Reference> 
