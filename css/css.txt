@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ W3.CSS Fashion Colors
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_color_fashion.asp
+
 ○ W3.CSS iOS Colors
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_color_ios.asp
