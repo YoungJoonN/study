@@ -2,6 +2,13 @@
 	<Reference> 
 
 
+
+
+
+○ W3.CSS Color Libraries
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_color_libraries.asp
+
 ○ W3.CSS Fashion Colors
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_color_fashion.asp
