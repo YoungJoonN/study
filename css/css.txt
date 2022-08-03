@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ W3.CSS Color Generator
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_color_generator.asp
+
 ○ W3.CSS Color Themes
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_color_themes.asp
