@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ Using a CSS Stylesheet
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_web_css.asp
+
 ○ Using an HTML Skeleton
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_web_html.asp
