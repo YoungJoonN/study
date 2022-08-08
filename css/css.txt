@@ -1,6 +1,12 @@
 ○ 
 	<Reference> 
 
+
+○ Page Layout
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_web_layout.asp
+
+
 ○ Using a JavaScript Library
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_web_javascript.asp
