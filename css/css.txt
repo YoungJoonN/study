@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ The Band
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_web_tmp_band.asp
 
 ○ Page Layout
 	<Reference> 
