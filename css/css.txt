@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+○ Architect Web Page
+	<Reference> 
+	https://www.w3schools.com/w3css/w3css_web_tmp_architect.asp
+
+
 ○ Pizza Restaurant
 	<Reference> 
 	https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp
