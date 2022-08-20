@@ -1,6 +1,14 @@
 ○ 
 	<Reference> 
 
+
+
+
+○ How TO - Icon Bar
+	<Reference> 	
+	https://www.w3schools.com/howto/howto_css_icon_bar.asp
+
+
 ○ W3Schools How To
 	<Reference> 
 	https://www.w3schools.com/howto/default.asp
