@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Vertical Tabs
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_vertical_tabs.asp
+
 ○ How TO - Tabs
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_tabs.asp
