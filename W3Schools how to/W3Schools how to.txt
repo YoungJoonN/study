@@ -1,7 +1,9 @@
 ○ 
 	<Reference> 
 
-
+○ How TO - Full Page Tabs
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_full_page_tabs.asp
 
 ○ How TO - Tab Headers
 	<Reference> 
