@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Hover Tabs
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_hover_tabs.asp
+
 ○ How TO - Full Page Tabs
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_full_page_tabs.asp
