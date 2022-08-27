@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Top Navigation
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_topnav.asp
+
 ○ How TO - Hover Tabs
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_hover_tabs.asp
