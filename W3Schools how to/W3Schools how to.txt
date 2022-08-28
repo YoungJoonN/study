@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Responsive Top Navigation
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 
 ○ How TO - Top Navigation
 	<Reference> 
