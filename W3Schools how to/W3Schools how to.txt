@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Search Bar
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_searchbar.asp
+
 ○ How TO - Search Menu
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_search_menu.asp
