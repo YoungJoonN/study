@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Side Navigation
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_sidenav.asp
+
 ○ How TO - Fixed Sidebar
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
