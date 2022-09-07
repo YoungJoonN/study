@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Sidebar with Icons
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_sidebar_icons.asp
 
 ○ How TO - Side Navigation Buttons
 	<Reference> 
