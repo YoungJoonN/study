@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Vertical Menu
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_vertical_menu.asp
+
 ○ How TO - Horizontal Scroll Menu
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp
