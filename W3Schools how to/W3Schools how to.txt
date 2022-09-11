@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ How TO - Bottom Navigation
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_bottom_nav.asp
+
 ○ How TO - Vertical Menu
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_vertical_menu.asp
