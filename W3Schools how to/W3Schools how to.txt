@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ How TO - Bottom Border Nav Links
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_navbar_border.asp
+
 ○ How TO - Responsive Bottom Navigation
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_bottom_nav_responsive.asp
