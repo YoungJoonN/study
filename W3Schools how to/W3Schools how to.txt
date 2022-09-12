@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ How TO - Responsive Bottom Navigation
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_bottom_nav_responsive.asp
+
 ○ How TO - Bottom Navigation
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_bottom_nav.asp
