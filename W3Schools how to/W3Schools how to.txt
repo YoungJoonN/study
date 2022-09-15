@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Centered Top Navigation
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_topnav_centered.asp
+
 ○ How TO - Right Aligned Menu Buttons
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_topnav_right.asp
