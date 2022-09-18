@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Slide Down a Bar on Scroll
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_navbar_slide.asp
+
 ○ How TO - Fixed Menu
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_topnav_equal_width.asp
