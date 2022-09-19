@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Shrink Navigation Menu on Scroll
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_navbar_shrink_scroll.asp
+
 ○ How TO - Hide Menu on Scroll
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_navbar_hide_scroll.asp
