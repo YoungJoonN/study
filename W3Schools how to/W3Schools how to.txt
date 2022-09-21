@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Navbar on Image
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_navbar_image.asp
+
 >> ○ How TO - Sticky/Affix Navbar
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_navbar_sticky.asp
