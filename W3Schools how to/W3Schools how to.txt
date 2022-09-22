@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Hoverable Dropdown
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_dropdown.asp
+
 ○ How TO - Navbar on Image
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_navbar_image.asp
