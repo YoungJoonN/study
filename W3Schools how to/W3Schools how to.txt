@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Responsive Navbar with Dropdown
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp
+
 ○ How TO - Dropdown Sidebar
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_dropdown_sidenav.asp
