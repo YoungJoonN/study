@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Collapse Sidebar
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp
+
 ○ How TO - Curtain Menu
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_curtain_menu.asp
