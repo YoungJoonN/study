@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Curtain Menu
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_curtain_menu.asp
+
 ○ How TO - Mobile Navigation Menu
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
