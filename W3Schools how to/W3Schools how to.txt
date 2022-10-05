@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - CSS Pagination
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_pagination.asp
+
 ○ How TO - Collapse Sidepanel
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp
