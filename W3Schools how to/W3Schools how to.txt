@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Pill Navigation
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_pill_nav.asp
+
 ○ How TO - Sticky Social Bar
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp
