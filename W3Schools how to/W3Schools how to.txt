@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Sticky Social Bar
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp
 
 ○ How TO - Vertical Button Group
 	<Reference> 
