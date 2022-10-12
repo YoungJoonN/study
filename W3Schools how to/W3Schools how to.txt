@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Slideshow
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_slideshow.asp
+
 ○ How TO - Responsive Header
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_responsive_header.asp
