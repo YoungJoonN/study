@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Slideshow Gallery
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
+
 ○ How TO - Slideshow
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_slideshow.asp
