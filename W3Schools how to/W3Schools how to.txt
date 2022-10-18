@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Tab Gallery
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_tab_img_gallery.asp
+
 ○ How TO - Image Grid
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_image_grid.asp
