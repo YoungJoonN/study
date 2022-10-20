@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Image Overlay Slide
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_image_overlay_slide.asp	
+
 ○ How TO - Image Hover Overlay
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_image_overlay.asp
