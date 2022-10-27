@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Position Text Over an Image
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_image_text.asp
+
 ○ How TO - Black and White Images
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_image_bw.asp
