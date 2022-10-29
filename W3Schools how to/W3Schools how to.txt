@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Image with Transparent Text
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_image_transparent.asp
+
 ○ How TO - Text Blocks Over Image
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_image_text_blocks.asp
