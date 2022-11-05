@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Rounded Images
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_rounded_images.asp
 
 ○ How TO - Align Images Side By Side
 	<Reference> 
