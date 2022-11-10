@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Add a Border to an Image
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_border_image.asp
+
 ○ How TO - Thumbnail
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_thumbnail.asp
