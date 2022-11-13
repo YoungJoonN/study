@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Flip an Image
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_flip_image.asp
+
 ○ How TO - Sticky Image
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_image_sticky.asp
