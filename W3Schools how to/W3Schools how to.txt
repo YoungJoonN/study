@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Image Zoom
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_image_zoom.asp
+
 ○ How TO - Portfolio Gallery with Filtering
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
