@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Add a Favicon in HTML
+	<Reference> 
+	https://www.w3schools.com/howto/howto_html_favicon.asp
+
 ○ How TO - Image Comparison Slider
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_image_comparison.asp
