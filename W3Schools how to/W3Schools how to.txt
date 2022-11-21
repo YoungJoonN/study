@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Outline Buttons
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_outline_buttons.asp
+
 ○ How TO - Alert Buttons
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_alert_buttons.asp
