@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Alert Buttons
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_alert_buttons.asp
+
 ○ How TO - Add a Favicon in HTML
 	<Reference> 
 	https://www.w3schools.com/howto/howto_html_favicon.asp
