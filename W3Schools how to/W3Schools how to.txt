@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Animate Buttons
+	<Reference>
+	https://www.w3schools.com/howto/howto_css_animate_buttons.asp
+
 ○ How TO - Split Buttons
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_button_split.asp
