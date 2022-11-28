@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Read More Read Less Button
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_read_more.asp
+
 ○ How TO - Social Media Buttons
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
