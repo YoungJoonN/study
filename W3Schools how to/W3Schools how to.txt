@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Download Button
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_download_button.asp
+
 ○ How TO - Loading Buttons
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_loading_buttons.asp
