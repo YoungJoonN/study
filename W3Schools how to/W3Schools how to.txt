@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Next and Previous Buttons
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_next_prev.asp
+
 ○ How TO - Icon Buttons
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_icon_buttons.asp
