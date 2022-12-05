@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - More Button in Navbar
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_more_button.asp
+
 ○ How TO - Next and Previous Buttons
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_next_prev.asp
