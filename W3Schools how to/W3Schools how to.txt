@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Full Width (Block) Buttons
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_block_buttons.asp
+
 ○ How TO - More Button in Navbar
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_more_button.asp
