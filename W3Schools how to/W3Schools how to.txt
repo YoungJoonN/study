@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Checkout Form
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_checkout_form.asp
+
 ○ How TO - Sign Up Form
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_signup_form.asp
