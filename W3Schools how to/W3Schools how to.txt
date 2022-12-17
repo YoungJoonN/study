@@ -1,6 +1,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Email Newsletter
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_newsletter.asp
+
 ○ How TO - Form with Icons
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_form_icon.asp
