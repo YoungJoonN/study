@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Inline Form
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_inline_form.asp
+
 ○ How TO - Popup Form
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_popup_form.asp
