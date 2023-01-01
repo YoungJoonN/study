@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Toggle Switch
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_switch.asp
+
 ○ How TO - Custom Select Box
 	<Reference> 
 	https://www.w3schools.com/howto/howto_custom_select.asp
