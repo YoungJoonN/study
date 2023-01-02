@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Detect Caps Lock
+	<Reference> 
+
 ○ How TO - Display Text when Checkbox is Checked
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_display_checkbox_text.asp
