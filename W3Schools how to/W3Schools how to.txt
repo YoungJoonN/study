@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Password Validation
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_password_validation.asp
+
 ○ How TO - Trigger Button Click on Enter
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_trigger_button_enter.asp
