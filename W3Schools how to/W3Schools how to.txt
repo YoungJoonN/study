@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Toggle Password Visibility
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_toggle_password.asp
+
 ○ How TO - Password Validation
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_password_validation.asp
