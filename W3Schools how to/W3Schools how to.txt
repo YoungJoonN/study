@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Form with Multiple Steps
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_form_steps.asp
+
 ○ How TO - Toggle Password Visibility
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_toggle_password.asp
