@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Autocomplete
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_autocomplete.asp
+
 ○ How TO - Form with Multiple Steps
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_form_steps.asp
