@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Turn Off Autocomplete For Input
+	<Reference> 
+	https://www.w3schools.com/howto/howto_html_autocomplete_off.asp
+
 ○ How TO - Autocomplete
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_autocomplete.asp
