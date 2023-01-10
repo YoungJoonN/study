@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - File Upload Button
+	<Reference> 
+	https://www.w3schools.com/howto/howto_html_file_upload_button.asp
+
 ○ How TO - Disable Spellcheck for Forms
 	<Reference> 
 	https://www.w3schools.com/howto/howto_html_spellcheck_disable.asp
