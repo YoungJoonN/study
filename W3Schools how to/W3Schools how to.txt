@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Filter/Search List
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_filter_lists.asp
+
 ○ How TO - JS Validation For Empty Fields
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_validation_empty_input.asp
