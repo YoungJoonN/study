@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - JS Validation For Empty Fields
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_validation_empty_input.asp
+
 ○ How TO - File Upload Button
 	<Reference> 
 	https://www.w3schools.com/howto/howto_html_file_upload_button.asp
