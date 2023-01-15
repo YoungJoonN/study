@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Filter Elements
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_filter_elements.asp
+
 ○ How TO - Filter/Search Table
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_filter_table.asp
