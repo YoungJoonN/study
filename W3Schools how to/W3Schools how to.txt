@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Search/Filter Dropdown
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_filter_dropdown.asp
+
 ○ How TO - Filter Elements
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_filter_elements.asp
