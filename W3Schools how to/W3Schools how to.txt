@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Sort a Table
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_sort_table.asp
+
 ○ How TO - Sort a List
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_sort_list.asp
