@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 	
+○ How TO - Center Tables
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_table_zebra.asp
+
 ○ How TO - Zebra Striped Table
 	<Reference> 	
 	https://www.w3schools.com/howto/howto_css_table_zebra.asp
