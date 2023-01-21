@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
-	
+
+○ How TO - Full-width Table
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_table_full_width.asp
+
 ○ How TO - Center Tables
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_table_zebra.asp
