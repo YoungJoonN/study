@@ -1,7 +1,11 @@
 ○ 
 	<Reference> 
 
-○ How TO - Delete Modal
+○ How TO - Timeline
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_timeline.asp
+
+○ How TO - Delete Modal 
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_delete_modal.asp
 
