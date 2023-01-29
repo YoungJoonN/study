@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Scroll Indicator
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_scroll_indicator.asp
+
 ○ How TO - Timeline
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_timeline.asp
