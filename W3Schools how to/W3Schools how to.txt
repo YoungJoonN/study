@@ -1,6 +1,12 @@
 ○ 
 	<Reference> 
 
+
+
+○ How TO - CSS Skill Bar
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_skill_bar.asp
+	
 ○ How TO - JavaScript Progress Bar
 	<Reference>
 	https://www.w3schools.com/howto/howto_js_progressbar.asp
