@@ -1,7 +1,9 @@
 ○ 
 	<Reference> 
 
-
+○ How TO - Range Sliders
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_rangeslider.asp
 
 ○ How TO - CSS Skill Bar
 	<Reference> 
