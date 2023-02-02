@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Tooltip
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_tooltip.asp
+	
 ○ How TO - Range Sliders
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_rangeslider.asp
