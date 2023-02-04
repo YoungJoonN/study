@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Popup
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_popup.asp
+
 ○ How TO - Display an Element on Hover
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_display_element_hover.asp
