@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Collapse
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_collapsible.asp
+
 ○ How TO - Popup
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_popup.asp
