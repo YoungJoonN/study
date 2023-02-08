@@ -1,6 +1,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Create a To Do List
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_todolist.asp
+
 ○ How TO - Include HTML
 	<Reference> 
 	https://www.w3schools.com/howto/howto_html_include.asp
