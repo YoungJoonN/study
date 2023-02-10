@@ -2,8 +2,10 @@
 	<Reference> 
 
 
-
-
+○ How TO - Badges
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_badge.asp
+	
 ○ How TO - CSS Loader
 	<Reference>
 	https://www.w3schools.com/howto/howto_css_loader.asp
