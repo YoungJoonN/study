@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Star Rating
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_star_rating.asp
 
 ○ How TO - Badges
 	<Reference> 
