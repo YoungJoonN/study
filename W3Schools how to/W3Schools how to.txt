@@ -1,6 +1,13 @@
 ○ 
 	<Reference> 
 
+○ 
+	<Reference> 
+
+○ How TO - User Rating
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_user_rating.asp
+
 ○ How TO - Star Rating
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_star_rating.asp
