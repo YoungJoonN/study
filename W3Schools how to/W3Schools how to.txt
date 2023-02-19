@@ -1,6 +1,13 @@
 ○ 
 	<Reference> 
 
+○ 
+	<Reference> 
+
+○ How TO - Alerts
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_alert.asp
+
 ○ How TO - Product Card
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_product_card.asp
