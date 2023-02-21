@@ -1,6 +1,13 @@
 ○ 
 	<Reference> 
 
+○ 
+	<Reference> 
+
+○ How TO - Notes
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_notes.asp
+
 ○ How TO - Callout Message
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_callout.asp
