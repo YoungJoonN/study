@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - List Group with Badges
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_list_group_badges.asp
+
 ○ How TO - List Group
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_list_group.asp
