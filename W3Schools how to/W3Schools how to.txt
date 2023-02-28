@@ -3,7 +3,11 @@
 
 ○ 
 	<Reference> 
-
+	
+○ How TO - List Without Bullets
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_list_without_bullets.asp
+	
 ○ How TO - List Group with Badges
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_list_group_badges.asp
