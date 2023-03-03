@@ -5,6 +5,10 @@
 	<Reference> 
 	
 	
+○ How TO - Glowing Text
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_glowing_text.asp
+	
 ○ How TO - Cutout Text
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_cutout_text.asp
