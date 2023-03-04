@@ -4,7 +4,11 @@
 ○ 
 	<Reference> 
 	
-	
+
+○ How TO - Fixed Footer
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_fixed_footer.asp
+
 ○ How TO - Glowing Text
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_glowing_text.asp
