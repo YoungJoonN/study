@@ -3,7 +3,12 @@
 
 ○ 
 	<Reference> 
-	
+
+
+
+○ How TO - Sticky Element
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_sticky_element.asp
 
 ○ How TO - Fixed Footer
 	<Reference> 
