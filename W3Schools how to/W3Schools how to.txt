@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Clear Floats (Clearfix)
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_clearfix.asp
+	
 ○ How TO - Equal Height
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_equal_height.asp
