@@ -3,7 +3,11 @@
 
 ○ 
 	<Reference> 
-
+	
+○ How TO - Smooth Scroll
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_smooth_scroll.asp
+	
 ○ How TO - Scroll Drawing
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_scrolldrawing.asp
