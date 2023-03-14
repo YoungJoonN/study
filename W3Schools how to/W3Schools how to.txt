@@ -1,11 +1,12 @@
 ○ 
 	<Reference> 
 
-
 ○ 
 	<Reference> 
 
-
+○ How TO - On Scroll Header
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_sticky_header.asp
 
 ○ How TO - Background Gradient on Scroll
 	<Reference> 
