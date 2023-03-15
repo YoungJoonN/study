@@ -1,8 +1,9 @@
 ○ 
 	<Reference> 
 
-○ 
+○ How TO - Resize Header on Scroll
 	<Reference> 
+	https://www.w3schools.com/howto/howto_js_shrink_header_scroll.asp
 
 ○ How TO - On Scroll Header
 	<Reference> 
