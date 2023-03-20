@@ -1,9 +1,13 @@
 ○ 
 	<Reference> 
 
+
 ○ 
 	<Reference> 
 
+○ How TO - Toggle Like and Dislike
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_toggle_like.asp
 
 ○ How TO - Responsive Iframe
 	<Reference> 
