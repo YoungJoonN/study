@@ -2,9 +2,10 @@
 	<Reference> 
 
 
-○ 
+○ How TO - Toggle Hide and Show
 	<Reference> 
-
+	https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp
+	
 ○ How TO - Toggle Like and Dislike
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_toggle_like.asp
