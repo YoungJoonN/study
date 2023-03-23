@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 	
+	
+○ How TO - Toggle/Swap Text
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_toggle_text.asp
+	
 ○ How TO - Toggle Dark Mode
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp
