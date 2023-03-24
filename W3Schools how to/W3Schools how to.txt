@@ -1,9 +1,14 @@
 ○ 
 	<Reference> 
 
+
 ○ 
 	<Reference> 
-	
+
+
+○ How TO - Toggle Class
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_toggle_class.asp
 	
 ○ How TO - Toggle/Swap Text
 	<Reference> 
