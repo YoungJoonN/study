@@ -1,10 +1,13 @@
 ○ 
 	<Reference> 
 
-
 ○ 
 	<Reference> 
 
+
+○ How TO - Add a Class
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_add_class.asp
 
 ○ How TO - Toggle Class
 	<Reference> 
