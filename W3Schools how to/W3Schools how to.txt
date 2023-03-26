@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ How TO - Remove a Class
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_remove_class.asp
+
 ○ How TO - Add a Class
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_add_class.asp
