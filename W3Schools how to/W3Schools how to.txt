@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Add Active Class to Current Element
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_active_element.asp
 
 ○ How TO - Remove a Class
 	<Reference> 
