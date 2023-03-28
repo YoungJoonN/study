@@ -1,10 +1,12 @@
 ○ 
 	<Reference> 
 
-
 ○ 
 	<Reference> 
 
+○ How TO - Remove a Property from an Object
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_remove_property_object.asp
 
 ○ How TO - Tree View
 	<Reference> 
