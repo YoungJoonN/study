@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Online Offline Detection
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_offline_detection.asp
+
 ○ How TO - Remove a Property from an Object
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_remove_property_object.asp
