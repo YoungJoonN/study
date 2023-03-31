@@ -1,9 +1,9 @@
 ○ 
 	<Reference> 
 
-○ 
+○ How TO - Redirect to Another Webpage
 	<Reference> 
-	
+	https://www.w3schools.com/howto/howto_js_redirect_webpage.asp
 	
 ○ How TO - Check if an Element is Hidden
 	<Reference> 
