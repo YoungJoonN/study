@@ -3,6 +3,11 @@
 
 ○ 
 	<Reference> 
+	
+	
+○ How TO - Check if an Element is Hidden
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_check_hidden.asp
 
 ○ How TO - Online Offline Detection
 	<Reference> 
