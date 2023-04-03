@@ -1,6 +1,13 @@
 ○ 
 	<Reference> 
 
+○ 
+	<Reference> 
+
+○ How TO - Zoom on Hover
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+
 ○ How TO - Redirect to Another Webpage
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_redirect_webpage.asp
