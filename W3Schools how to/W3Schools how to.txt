@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Center Elements Vertically
+	<Reference> 
+	https://github.com/YoungJoonN/study/edit/main/W3Schools%20how%20to/W3Schools%20how%20to.txt
+	
 ○ How TO - 3D Flip Box
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_flip_box.asp
