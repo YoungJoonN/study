@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Center a Button in DIV
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_center_button.asp
+
 ○ How TO - Center Elements Vertically
 	<Reference> 
 	https://github.com/YoungJoonN/study/edit/main/W3Schools%20how%20to/W3Schools%20how%20to.txt
