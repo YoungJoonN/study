@@ -3,7 +3,11 @@
 
 ○ 
 	<Reference> 
-	
+
+○ How TO - Transition on Hover
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_transition_hover.asp
+
 ○ How TO - Center a List
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_center-list.asp
