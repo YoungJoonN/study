@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ How TO - CSS Shapes
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_shapes.asp
+
 ○ How TO - CSS Arrows
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_arrows.asp
