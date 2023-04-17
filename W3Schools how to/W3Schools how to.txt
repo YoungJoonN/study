@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Remove Contenteditable Border
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_contenteditable_border.asp
+
 ○ How TO - Device Look
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_devices.asp
