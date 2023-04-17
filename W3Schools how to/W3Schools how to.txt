@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Device Look
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_devices.asp
+
 ○ How TO - Always Show Scrollbars
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_force_scrollbars.asp
