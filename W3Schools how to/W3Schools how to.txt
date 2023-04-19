@@ -4,6 +4,12 @@
 ○ 
 	<Reference> 
 
+
+
+○ How TO - Disable Text Selection
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_disable_text_selection.asp
+
 ○ How TO - Disable Resizing of Textarea
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_disable_resize_textarea.asp
