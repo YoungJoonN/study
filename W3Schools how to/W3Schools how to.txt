@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Disable Resizing of Textarea
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_disable_resize_textarea.asp
 
 ○ How TO - Change Placeholder Color
 	<Reference> 
