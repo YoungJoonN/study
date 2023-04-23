@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Vertical Line
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_vertical_line.asp
+
 ○ How TO - Change Bullet Color of Lists
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_bullet_color.asp
