@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - JavaScript Countdown Timer
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_countdown.asp
+	
 ○ How TO - Animate Icons
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_animate_icons.asp
