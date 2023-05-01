@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Testimonials
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_testimonials.asp
+
 ○ How TO - Split Screen 1/2
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_split_screen.asp
