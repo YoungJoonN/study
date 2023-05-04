@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Closable List Items
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_close_list_items.asp
+
 ○ How TO - Quotes Slideshow
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_quotes_slideshow.asp
