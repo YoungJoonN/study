@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Media Queries with JavaScript
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_media_queries.asp
+
 ○ How TO - Create a Draggable HTML Element
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_draggable.asp
