@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Create a Syntax Highlighter
+	<Reference> 
+	https://www.w3schools.com/howto/howto_syntax_highlight.asp
+
 ○ How TO - Media Queries with JavaScript
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_media_queries.asp
