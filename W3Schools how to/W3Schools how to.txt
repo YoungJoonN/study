@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - JavaScript HTML Animations
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_animate.asp
+
 ○ How TO - Create a Syntax Highlighter
 	<Reference> 
 	https://www.w3schools.com/howto/howto_syntax_highlight.asp
