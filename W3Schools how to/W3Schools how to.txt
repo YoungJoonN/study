@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ How TO - Get The Length of a String
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_string_length.asp
+
 ○ How TO - JavaScript HTML Animations
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_animate.asp
