@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ How TO - JavaScript Exponentiation (**)
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_exponentiation.asp
+
 ○ How TO - Get The Length of a String
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_string_length.asp
