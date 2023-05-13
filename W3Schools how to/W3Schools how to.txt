@@ -4,7 +4,9 @@
 ○ 
 	<Reference> 
 
-
+○ How TO - Set Default Parameters
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_default_parameters.asp
 
 ○ How TO - JavaScript Exponentiation (**)
 	<Reference> 
