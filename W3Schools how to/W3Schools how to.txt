@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Random Number Between Two Numbers
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_random_number_two_nums.asp
+
 ○ How TO - Set Default Parameters
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_default_parameters.asp
