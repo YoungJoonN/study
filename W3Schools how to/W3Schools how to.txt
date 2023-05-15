@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - The Spread Operator (...)
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_spread_operator.asp
 
 ○ How TO - Random Number Between Two Numbers
 	<Reference> 
