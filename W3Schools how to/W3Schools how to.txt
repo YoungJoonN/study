@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How TO - Get Current Date With JavaScript
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_get_date.asp
+	
 ○ How TO - The Spread Operator (...)
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_spread_operator.asp
