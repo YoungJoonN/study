@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Get The Current Screen Size
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_get_current_window.asp
+	
 ○ How TO - Get Current URL With JavaScript
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_get_url.asp
