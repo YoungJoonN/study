@@ -5,6 +5,9 @@
 	<Reference> 
 
 
+○ How TO - Make a Static Website
+	<Reference> 
+	https://www.w3schools.com/howto/howto_website_static.asp
 
 ○ How TO - Make a Website
 	<Reference> 
