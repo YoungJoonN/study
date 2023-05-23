@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ How To Host a Static Website
+	<Reference> 
+	https://www.w3schools.com/howto/howto_website_host_staticwebsite.asp
 
 ○ How TO - Make a Static Website
 	<Reference> 
