@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How to make a link tree website
+	<Reference> 
+	https://www.w3schools.com/howto/howto_website_create_linktree.asp
+
 ○ How TO - Create and View a Website
 	<Reference> 
 	https://www.w3schools.com/howto/howto_create_and_view.asp
