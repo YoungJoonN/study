@@ -1,8 +1,15 @@
 ○ 
 	<Reference> 
 
+
 ○ 
 	<Reference> 
+
+
+
+○ How to create a portfolio
+	<Reference> 
+	https://www.w3schools.com/howto/howto_website_create_portfolio.asp
 
 ○ How to make a link tree website
 	<Reference> 
