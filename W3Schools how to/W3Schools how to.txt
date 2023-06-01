@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ How To Make a Restaurant website
+	<Reference> 
+	https://www.w3schools.com/howto/howto_website_restaurant.asp
+
 ○ How to create an online resume
 	<Reference> 
 	https://www.w3schools.com/howto/howto_website_create_resume.asp
