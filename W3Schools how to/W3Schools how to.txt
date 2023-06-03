@@ -1,9 +1,13 @@
 ○ 
 	<Reference> 
 
-
 ○ 
 	<Reference> 
+
+
+○ How TO - Make an HTML Book
+	<Reference> 
+	https://www.w3schools.com/howto/howto_make_a_webbook.asp
 
 ○ How To Make a Business website
 	<Reference> 
