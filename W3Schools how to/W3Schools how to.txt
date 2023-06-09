@@ -1,9 +1,16 @@
 ○ 
 	<Reference> 
 
+
 ○ 
 	<Reference> 
 
+
+
+
+○ How TO - Two Column Layout
+	<Reference> 
+	https://www.w3schools.com/howto/howto_css_two_columns.asp
 
 ○ How TO - Example Website
 	<Reference> 
