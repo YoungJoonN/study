@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ How TO - Expanding Grid
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_expanding_grid.asp
+
 ○ How TO - Four Column Layout
 	<Reference> 
 	https://www.w3schools.com/howto/howto_css_four_columns.asp
