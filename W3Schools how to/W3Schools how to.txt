@@ -6,6 +6,11 @@
 	<Reference> 
 
 
+
+○ How TO - List Grid View
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_list_grid_view.asp
+
 ○ How TO - Expanding Grid
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_expanding_grid.asp
