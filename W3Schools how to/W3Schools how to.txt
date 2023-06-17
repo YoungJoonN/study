@@ -4,7 +4,9 @@
 ○ 
 	<Reference> 
 
-
+○ How TO - Google Charts
+	<Reference> 
+	https://www.w3schools.com/howto/howto_google_charts.asp
 
 ○ How TO - Blog Layout
 	<Reference> 
