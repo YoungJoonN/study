@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Google Fonts
+	<Reference> 
+	https://www.w3schools.com/howto/howto_google_fonts.asp
+
 ○ How TO - Google Charts
 	<Reference> 
 	https://www.w3schools.com/howto/howto_google_charts.asp
