@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ How to Set Up Google Analytics
+	<Reference> 
+	https://www.w3schools.com/howto/howto_google_analytics.asp
+
 ○ How TO - Google Font Pairings
 	<Reference> 
 	https://www.w3schools.com/howto/howto_google_fonts_pairings.asp
