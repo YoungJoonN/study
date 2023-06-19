@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Google Font Pairings
+	<Reference> 
+	https://www.w3schools.com/howto/howto_google_fonts_pairings.asp
 
 ○ How TO - Google Fonts
 	<Reference> 
