@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Weight Converter
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_weight_converter.asp
+
 ○ How to Set Up Google Analytics
 	<Reference> 
 	https://www.w3schools.com/howto/howto_google_analytics.asp
