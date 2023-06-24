@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ How TO - Speed Converter
+	<Reference> 
+	https://www.w3schools.com/howto/howto_js_speed_converter.asp
+
 ○ How TO - Length Converter
 	<Reference> 
 	https://www.w3schools.com/howto/howto_js_length_converter.asp
