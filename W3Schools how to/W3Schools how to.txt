@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ How TO - Get a Developer Job
+	<Reference> 
+	https://www.w3schools.com/howto/howto_blog_developer_job.asp
 
 ○ How TO - Speed Converter
 	<Reference> 
