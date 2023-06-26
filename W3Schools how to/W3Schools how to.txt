@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ How TO - Become a Front-End Developer
+	<Reference> 
+	https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp
+
 ○ How TO - Get a Developer Job
 	<Reference> 
 	https://www.w3schools.com/howto/howto_blog_developer_job.asp
