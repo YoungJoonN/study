@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Output
+	<Reference> 
+	https://www.w3schools.com/js/js_output.asp
+
 ○ JavaScript Where To
 	<Reference> 
 	https://www.w3schools.com/js/js_whereto.asp
