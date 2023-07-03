@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Comments
+	<Reference> 
+	https://www.w3schools.com/js/js_comments.asp
+
 ○ JavaScript Syntax
 	<Reference> 
 	https://www.w3schools.com/js/js_syntax.asp
