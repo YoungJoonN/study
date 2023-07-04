@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Variables
+	<Reference> 
+	https://www.w3schools.com/js/js_variables.asp
+
 ○ JavaScript Comments
 	<Reference> 
 	https://www.w3schools.com/js/js_comments.asp
