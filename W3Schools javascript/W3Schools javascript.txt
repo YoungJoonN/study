@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Let
+	<Reference> 
+	https://www.w3schools.com/js/js_let.asp
 
 ○ JavaScript Variables
 	<Reference> 
