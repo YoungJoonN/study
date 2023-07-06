@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Const
+	<Reference> 
+	https://www.w3schools.com/js/js_const.asp
+
 ○ JavaScript Let
 	<Reference> 
 	https://www.w3schools.com/js/js_let.asp
