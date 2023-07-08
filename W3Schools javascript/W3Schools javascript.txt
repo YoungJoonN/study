@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Arithmetic
+	<Reference> 
+	https://www.w3schools.com/js/js_arithmetic.asp
+
 ○ JavaScript Operators
 	<Reference> 
 	https://www.w3schools.com/js/js_operators.asp
