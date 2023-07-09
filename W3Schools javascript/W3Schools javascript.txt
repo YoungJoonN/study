@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Assignment
+	<Reference> 
+	https://www.w3schools.com/js/js_assignment.asp
+
 ○ JavaScript Arithmetic
 	<Reference> 
 	https://www.w3schools.com/js/js_arithmetic.asp
