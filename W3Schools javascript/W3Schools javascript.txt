@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Data Types
+	<Reference> 
+	https://www.w3schools.com/js/js_datatypes.asp
+
 ○ JavaScript Assignment
 	<Reference> 
 	https://www.w3schools.com/js/js_assignment.asp
