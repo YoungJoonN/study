@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Events
+	<Reference> 
+	https://www.w3schools.com/js/js_events.asp
+
 ○ JavaScript Objects
 	<Reference> 
 	https://www.w3schools.com/js/js_objects.asp
