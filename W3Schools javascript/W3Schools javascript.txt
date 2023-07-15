@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript String Methods
+	<Reference> 
+	https://www.w3schools.com/js/js_string_methods.asp
+
 ○ JavaScript Strings
 	<Reference> 
 	https://www.w3schools.com/js/js_strings.asp
