@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Template Literals
+	<Reference> 
+	https://www.w3schools.com/js/js_string_templates.asp
+
 ○ JavaScript String Search
 	<Reference> 
 	https://www.w3schools.com/js/js_string_search.asp
