@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript BigInt
+	<Reference> 
+	https://www.w3schools.com/js/js_bigint.asp
+
 ○ JavaScript Numbers
 	<Reference> 
 	https://www.w3schools.com/js/js_numbers.asp
