@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Numbers
+	<Reference> 
+	https://www.w3schools.com/js/js_numbers.asp
 
 ○ JavaScript Template Literals
 	<Reference> 
