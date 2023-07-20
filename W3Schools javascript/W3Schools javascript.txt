@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Number Methods
+	<Reference> 
+	https://www.w3schools.com/js/js_number_methods.asp
 
 ○ JavaScript BigInt
 	<Reference> 
