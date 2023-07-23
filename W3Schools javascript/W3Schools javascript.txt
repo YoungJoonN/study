@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Array Methods
+	<Reference> 
+	https://www.w3schools.com/js/js_array_methods.asp
+
 ○ JavaScript Arrays
 	<Reference> 
 	https://www.w3schools.com/js/js_arrays.asp
