@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Sorting Arrays
+	<Reference> 
+	https://www.w3schools.com/js/js_array_sort.asp
+
 ○ JavaScript Array Methods
 	<Reference> 
 	https://www.w3schools.com/js/js_array_methods.asp
