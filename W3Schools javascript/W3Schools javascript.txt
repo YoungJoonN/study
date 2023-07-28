@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date Formats
+	<Reference> 
+	https://www.w3schools.com/js/js_date_formats.asp
+
 ○ JavaScript Date Objects
 	<Reference> 
 	https://www.w3schools.com/js/js_dates.asp
