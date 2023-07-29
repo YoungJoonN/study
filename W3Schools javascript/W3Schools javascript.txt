@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Get Date Methods
+	<Reference> 
+	https://www.w3schools.com/js/js_date_methods.asp
+
 ○ JavaScript Date Formats
 	<Reference> 
 	https://www.w3schools.com/js/js_date_formats.asp
