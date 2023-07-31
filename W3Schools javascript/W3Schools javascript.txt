@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Random
+	<Reference> 
+	https://www.w3schools.com/js/js_random.asp
+
 ○ JavaScript Math Object
 	<Reference> 
 	https://www.w3schools.com/js/js_math.asp
