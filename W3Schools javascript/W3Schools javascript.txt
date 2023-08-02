@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Comparison and Logical Operators
+	<Reference> 
+	https://www.w3schools.com/js/js_comparisons.asp
+
 ○ JavaScript Booleans
 	<Reference> 
 	https://www.w3schools.com/js/js_booleans.asp
