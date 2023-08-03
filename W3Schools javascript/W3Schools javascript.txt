@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ JavaScript if, else, and else if
+	<Reference> 
+	https://www.w3schools.com/js/js_if_else.asp
+
 ○ JavaScript Comparison and Logical Operators
 	<Reference> 
 	https://www.w3schools.com/js/js_comparisons.asp
