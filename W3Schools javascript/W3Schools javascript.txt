@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript For Loop
+	<Reference> 
+	https://www.w3schools.com/js/js_loop_for.asp
 
 ○ JavaScript Switch Statement
 	<Reference> 
