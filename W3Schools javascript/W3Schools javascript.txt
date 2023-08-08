@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript For Of
+	<Reference> 
+	https://www.w3schools.com/js/js_loop_forof.asp
+
 ○ JavaScript For In
 	<Reference> 
 	https://www.w3schools.com/js/js_loop_forin.asp
