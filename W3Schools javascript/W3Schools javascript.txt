@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Sets
+	<Reference> 
+	https://www.w3schools.com/js/js_sets.asp
+
 ○ JavaScript Iterables
 	<Reference> 
 	https://www.w3schools.com/js/js_iterables.asp
