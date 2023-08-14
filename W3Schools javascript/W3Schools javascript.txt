@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript typeof
+	<Reference> 
+	https://www.w3schools.com/js/js_typeof.asp
+
 ○ JavaScript Maps
 	<Reference> 
 	https://www.w3schools.com/js/js_maps.asp
