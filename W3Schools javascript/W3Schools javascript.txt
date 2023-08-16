@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Bitwise Operations
+	<Reference> 
+	https://www.w3schools.com/js/js_bitwise.asp
+
 ○ JavaScript Type Conversion
 	<Reference> 
 	https://www.w3schools.com/js/js_type_conversion.asp
