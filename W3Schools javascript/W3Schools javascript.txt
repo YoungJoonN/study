@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Regular Expressions
+	<Reference> 
+	https://www.w3schools.com/js/js_regexp.asp
+
 ○ JavaScript Bitwise Operations
 	<Reference> 
 	https://www.w3schools.com/js/js_bitwise.asp
