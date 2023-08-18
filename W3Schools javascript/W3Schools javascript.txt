@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Operator Precedence
+	<Reference> 
+	https://www.w3schools.com/js/js_precedence.asp
+
 ○ JavaScript Regular Expressions
 	<Reference> 
 	https://www.w3schools.com/js/js_regexp.asp
