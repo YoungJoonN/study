@@ -4,6 +4,12 @@
 ○ 
 	<Reference> 
 
+
+
+○ JavaScript Scope
+	<Reference> 
+	https://www.w3schools.com/js/js_scope.asp
+
 ○ JavaScript Errors
 	<Reference> 
 	https://www.w3schools.com/js/js_errors.asp
