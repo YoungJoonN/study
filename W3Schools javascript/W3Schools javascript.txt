@@ -4,7 +4,9 @@
 ○ 
 	<Reference> 
 
-
+○ JavaScript Hoisting
+	<Reference> 
+	https://www.w3schools.com/js/js_hoisting.asp
 
 ○ JavaScript Scope
 	<Reference> 
