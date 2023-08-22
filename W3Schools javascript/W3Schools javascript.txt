@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Use Strict
+	<Reference> 
+	https://www.w3schools.com/js/js_strict.asp
+
 ○ JavaScript Hoisting
 	<Reference> 
 	https://www.w3schools.com/js/js_hoisting.asp
