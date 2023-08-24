@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ JavaScript Modules
+	<Reference> 
+	https://www.w3schools.com/js/js_modules.asp
+
 ○ JavaScript Classes
 	<Reference> 
 	https://www.w3schools.com/js/js_classes.asp
