@@ -1,9 +1,14 @@
 ○ 
 	<Reference> 
 
+
 ○ 
 	<Reference> 
 
+
+○ JavaScript Classes
+	<Reference> 
+	https://www.w3schools.com/js/js_classes.asp
   
 ○ JavaScript Arrow Function
 	<Reference> 
