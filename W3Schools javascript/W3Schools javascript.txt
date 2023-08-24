@@ -4,7 +4,7 @@
 ○ 
 	<Reference> 
 
-
+  
 ○ JavaScript Arrow Function
 	<Reference> 
 	https://www.w3schools.com/js/js_arrow_function.asp
