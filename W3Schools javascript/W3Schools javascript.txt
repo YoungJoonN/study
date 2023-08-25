@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ JavaScript JSON
+	<Reference> 
+	https://www.w3schools.com/js/js_json.asp
+
 ○ JavaScript Modules
 	<Reference> 
 	https://www.w3schools.com/js/js_modules.asp
