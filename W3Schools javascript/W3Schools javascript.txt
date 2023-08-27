@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ JavaScript Debugging
+	<Reference> 
+	https://www.w3schools.com/js/js_debugging.asp
+
 ○ JavaScript JSON
 	<Reference> 
 	https://www.w3schools.com/js/js_json.asp
