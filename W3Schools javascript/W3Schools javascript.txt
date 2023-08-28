@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ JavaScript Style Guide
+	<Reference> 
+	https://www.w3schools.com/js/js_conventions.asp
+
 ○ JavaScript Debugging
 	<Reference> 
 	https://www.w3schools.com/js/js_debugging.asp
