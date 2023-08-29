@@ -5,6 +5,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Common Mistakes
+	<Reference> 
+	https://www.w3schools.com/js/js_mistakes.asp
+	
 ○ JavaScript Best Practices
 	<Reference> 
 	https://www.w3schools.com/js/js_best_practices.asp
