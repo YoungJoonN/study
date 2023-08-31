@@ -1,10 +1,12 @@
 ○ 
 	<Reference> 
 
-
 ○ 
 	<Reference> 
 
+○ JavaScript Performance
+	<Reference> 
+	https://www.w3schools.com/js/js_performance.asp
 
 ○ JavaScript Common Mistakes
 	<Reference> 
