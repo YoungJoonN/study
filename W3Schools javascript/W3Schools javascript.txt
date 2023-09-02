@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Objects
+	<Reference>
+	https://www.w3schools.com/js/js_object_definition.asp
+ 
 ○ JavaScript Reserved Words
 	<Reference> 
 	https://www.w3schools.com/js/js_reserved.asp
