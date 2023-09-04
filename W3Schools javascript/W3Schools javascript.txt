@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Object Methods
+	<Reference> 
+	https://www.w3schools.com/js/js_object_methods.asp
+	
 ○ JavaScript Object Properties
 	<Reference> 
 	https://www.w3schools.com/js/js_object_properties.asp
