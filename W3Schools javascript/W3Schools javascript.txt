@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Display Objects
+	<Reference> 
+	https://www.w3schools.com/js/js_object_display.asp
+
 ○ JavaScript Object Methods
 	<Reference> 
 	https://www.w3schools.com/js/js_object_methods.asp
