@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Object Accessors
+	<Reference> 
+	https://www.w3schools.com/js/js_object_accessors.asp
+
 ○ JavaScript Display Objects
 	<Reference> 
 	https://www.w3schools.com/js/js_object_display.asp
