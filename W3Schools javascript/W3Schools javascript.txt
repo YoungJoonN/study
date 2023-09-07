@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Object Prototypes
+	<Reference> 
+	https://www.w3schools.com/js/js_object_prototypes.asp
+
 ○ JavaScript Object Constructors
 	<Reference> 
 	https://www.w3schools.com/js/js_object_constructors.asp
