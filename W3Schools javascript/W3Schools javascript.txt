@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Object Constructors
+	<Reference> 
+	https://www.w3schools.com/js/js_object_constructors.asp
+
 ○ JavaScript Object Accessors
 	<Reference> 
 	https://www.w3schools.com/js/js_object_accessors.asp
