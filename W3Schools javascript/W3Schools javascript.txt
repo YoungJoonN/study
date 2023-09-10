@@ -6,6 +6,9 @@
 	<Reference> 
 
 
+○ JavaScript Sets
+	<Reference> 
+	https://www.w3schools.com/js/js_object_sets.asp
 
 ○ JavaScript Iterables
 	<Reference> 
