@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ JavaScript Maps
+	<Reference> 
+	https://www.w3schools.com/js/js_object_maps.asp	
+
 ○ JavaScript Sets
 	<Reference> 
 	https://www.w3schools.com/js/js_object_sets.asp
