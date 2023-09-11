@@ -6,6 +6,11 @@
 	<Reference> 
 
 
+
+○ JavaScript ES5 Object Methods
+	<Reference> 
+	https://www.w3schools.com/js/js_object_es5.asp
+
 ○ JavaScript Maps
 	<Reference> 
 	https://www.w3schools.com/js/js_object_maps.asp	
