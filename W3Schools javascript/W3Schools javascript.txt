@@ -5,7 +5,9 @@
 ○ 
 	<Reference> 
 
-
+○ JavaScript Function Definitions
+	<Reference> 
+	https://www.w3schools.com/js/js_function_definition.asp
 
 ○ JavaScript ES5 Object Methods
 	<Reference> 
