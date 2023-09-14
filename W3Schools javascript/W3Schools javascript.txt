@@ -5,6 +5,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Function Parameters
+	<Reference> 
+	https://www.w3schools.com/js/js_function_parameters.asp
+
 ○ JavaScript Function Definitions
 	<Reference> 
 	https://www.w3schools.com/js/js_function_definition.asp
