@@ -6,6 +6,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Function Invocation
+	<Reference> 
+	https://www.w3schools.com/js/js_function_invocation.asp
+
 ○ JavaScript Function Parameters
 	<Reference> 
 	https://www.w3schools.com/js/js_function_parameters.asp
