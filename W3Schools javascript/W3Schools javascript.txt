@@ -4,7 +4,9 @@
 ○ 
 	<Reference> 
 
-
+○ JavaScript Function apply()
+	<Reference> 
+	https://www.w3schools.com/js/js_function_apply.asp
 
 ○ JavaScript Function call()
 	<Reference> 
