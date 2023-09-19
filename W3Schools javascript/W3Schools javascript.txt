@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Function bind()
+	<Reference> 
+	https://www.w3schools.com/js/js_function_bind.asp
+
 ○ JavaScript Function apply()
 	<Reference> 
 	https://www.w3schools.com/js/js_function_apply.asp
