@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Classes
+	<Reference> 
+	https://www.w3schools.com/js/js_class_intro.asp
 
 ○ JavaScript Closures
 	<Reference> 
