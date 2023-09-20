@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Closures
+	<Reference> 
+	https://www.w3schools.com/js/js_function_closures.asp
+
 ○ JavaScript Function bind()
 	<Reference> 
 	https://www.w3schools.com/js/js_function_bind.asp
