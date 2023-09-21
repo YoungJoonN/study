@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Class Inheritance
+	<Reference> 
+	https://www.w3schools.com/js/js_class_inheritance.asp
+
 ○ JavaScript Classes
 	<Reference> 
 	https://www.w3schools.com/js/js_class_intro.asp
