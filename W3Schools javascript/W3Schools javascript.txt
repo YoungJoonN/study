@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Promises
+	<Reference> 
+	https://www.w3schools.com/js/js_promise.asp
 
 ○ Asynchronous JavaScript
 	<Reference> 
