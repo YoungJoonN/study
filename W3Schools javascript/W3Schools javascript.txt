@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Async
+	<Reference> 
+	https://www.w3schools.com/js/js_async.asp
+
 ○ JavaScript Promises
 	<Reference> 
 	https://www.w3schools.com/js/js_promise.asp
