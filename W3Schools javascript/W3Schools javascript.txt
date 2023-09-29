@@ -6,6 +6,10 @@
 
 
 
+○ JavaScript - HTML DOM Methods
+	<Reference> 
+	https://www.w3schools.com/js/js_htmldom_methods.asp
+
 ○ JavaScript HTML DOM
 	<Reference> 
 	https://www.w3schools.com/js/js_htmldom.asp
