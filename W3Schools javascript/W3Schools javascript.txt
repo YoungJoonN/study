@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Forms
+	<Reference> 
+	https://www.w3schools.com/js/js_validation.asp
+
 ○ JavaScript HTML DOM - Changing HTML
 	<Reference> 
 	https://www.w3schools.com/js/js_htmldom_html.asp
