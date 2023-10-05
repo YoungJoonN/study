@@ -5,7 +5,10 @@
 	<Reference> 
 
 
-
+○ JavaScript HTML DOM Animation
+	<Reference> 
+	https://www.w3schools.com/js/js_htmldom_animate.asp
+		
 ○ avaScript HTML DOM - Changing CSS
 	<Reference> 
 	https://www.w3schools.com/js/js_htmldom_css.asp
