@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript HTML DOM Node Lists
+	<Reference> 
+	https://www.w3schools.com/js/js_htmldom_nodelist.asp
+
 ○ JavaScript HTML DOM Collections
 	<Reference> 
 	https://www.w3schools.com/js/js_htmldom_collections.asp
