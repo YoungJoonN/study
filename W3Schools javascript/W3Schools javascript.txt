@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Window - The Browser Object Model
+	<Reference> 
+	https://www.w3schools.com/js/js_window.asp
+
 ○ JavaScript HTML DOM Node Lists
 	<Reference> 
 	https://www.w3schools.com/js/js_htmldom_nodelist.asp
