@@ -5,6 +5,9 @@
 	<Reference> 
 
 
+○ JavaScript Window Screen
+	<Reference> 
+	https://www.w3schools.com/js/js_window_screen.asp
 
 ○ JavaScript Window - The Browser Object Model
 	<Reference> 
