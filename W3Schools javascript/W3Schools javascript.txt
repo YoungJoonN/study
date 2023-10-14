@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Window Location
+	<Reference> 
+	https://www.w3schools.com/js/js_window_location.asp
+
 ○ JavaScript Window Screen
 	<Reference> 
 	https://www.w3schools.com/js/js_window_screen.asp
