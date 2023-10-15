@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Window History
+	<Reference> 
+	https://www.w3schools.com/js/js_window_history.asp
+
 ○ JavaScript Window Location
 	<Reference> 
 	https://www.w3schools.com/js/js_window_location.asp
