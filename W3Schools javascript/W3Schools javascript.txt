@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Window Navigator
+	<Reference> 
+	https://www.w3schools.com/js/js_window_navigator.asp
+
 ○ JavaScript Window History
 	<Reference> 
 	https://www.w3schools.com/js/js_window_history.asp
