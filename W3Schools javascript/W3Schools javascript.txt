@@ -5,6 +5,9 @@
 	<Reference> 
 
 
+○ JavaScript Timing Events
+	<Reference> 
+	https://www.w3schools.com/js/js_timing.asp
 
 ○ JavaScript Popup Boxes
 	<Reference> 
