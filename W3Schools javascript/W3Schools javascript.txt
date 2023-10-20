@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Cookies
+	<Reference> 
+	https://www.w3schools.com/js/js_cookies.asp
+
 ○ JavaScript Timing Events
 	<Reference> 
 	https://www.w3schools.com/js/js_timing.asp
