@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ Web APIs - Introduction
+	<Reference
+	https://www.w3schools.com/js/js_api_intro.asp
 
 ○ JavaScript Cookies
 	<Reference> 
