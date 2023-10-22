@@ -4,6 +4,12 @@
 ○ 
 	<Reference> 
 
+
+
+○ JavaScript Validation API
+	<Reference> 
+	https://www.w3schools.com/js/js_validation_api.asp
+
 ○ Web APIs - Introduction
 	<Reference
 	https://www.w3schools.com/js/js_api_intro.asp
