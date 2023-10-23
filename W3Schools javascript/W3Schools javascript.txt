@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ Web Storage API
+	<Reference> 
+	https://www.w3schools.com/js/js_api_web_storage.asp
+
 ○ Web History API
 	<Reference> 
 	https://www.w3schools.com/js/js_api_history.asp
