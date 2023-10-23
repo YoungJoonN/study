@@ -5,6 +5,9 @@
 	<Reference> 
 
 
+○ Web History API
+	<Reference> 
+	https://www.w3schools.com/js/js_api_history.asp
 
 ○ JavaScript Validation API
 	<Reference> 
