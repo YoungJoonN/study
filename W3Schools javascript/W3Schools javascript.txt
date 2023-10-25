@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ Web Workers API
+	<Reference> 
+	https://www.w3schools.com/js/js_api_web_workers.asp
+
 ○ Web Storage API
 	<Reference> 
 	https://www.w3schools.com/js/js_api_web_storage.asp
