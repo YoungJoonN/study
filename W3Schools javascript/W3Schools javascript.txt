@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ Web Geolocation API
+	<Reference> 
+	https://www.w3schools.com/js/js_api_geolocation.asp
 
 ○ JavaScript Fetch API
 	<Reference> 
