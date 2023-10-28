@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ AJAX Introduction
+	<Reference> 
+	https://www.w3schools.com/js/js_ajax_intro.asp
+
 ○ Web Geolocation API
 	<Reference> 
 	https://www.w3schools.com/js/js_api_geolocation.asp
