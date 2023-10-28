@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ AJAX - The XMLHttpRequest Object
+	<Reference> 
+	https://www.w3schools.com/js/js_ajax_http.asp
+
 ○ AJAX Introduction
 	<Reference> 
 	https://www.w3schools.com/js/js_ajax_intro.asp
