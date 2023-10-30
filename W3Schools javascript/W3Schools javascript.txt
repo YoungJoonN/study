@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ AJAX - Server Response
+	<Reference> 
+	https://www.w3schools.com/js/js_ajax_http_response.asp
+
 ○ AJAX - XMLHttpRequest
 	<Reference> 
 	https://www.w3schools.com/js/js_ajax_http_send.asp
