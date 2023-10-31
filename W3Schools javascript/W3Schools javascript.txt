@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ AJAX XML Example
+	<Reference> 
+	https://www.w3schools.com/js/js_ajax_xmlfile.asp
+
 ○ AJAX - Server Response
 	<Reference> 
 	https://www.w3schools.com/js/js_ajax_http_response.asp
