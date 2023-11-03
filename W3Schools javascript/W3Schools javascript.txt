@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ AJAX Database Example
+	<Reference> 
+	https://www.w3schools.com/js/js_ajax_database.asp
+
 ○ AJAX ASP Example
 	<Reference> 
 	https://www.w3schools.com/js/js_ajax_asp.asp
