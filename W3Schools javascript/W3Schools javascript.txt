@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ AJAX Examples
+	<Reference> 
+	https://www.w3schools.com/js/js_ajax_examples.asp
+
 ○ XML Applications
 	<Reference> 
 	https://www.w3schools.com/js/js_ajax_applications.asp
