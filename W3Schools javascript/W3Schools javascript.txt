@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ JSON vs XML
+	<Reference> 
+	https://www.w3schools.com/js/js_json_xml.asp
+
 ○ JSON Syntax
 	<Reference> 
 	https://www.w3schools.com/js/js_json_syntax.asp
