@@ -6,6 +6,10 @@
 	<Reference> 
 
 
+○ JSON.stringify()
+	<Reference> 
+	https://www.w3schools.com/js/js_json_stringify.asp
+
 ○ JSON.parse()
 	<Reference> 
 	https://www.w3schools.com/js/js_json_parse.asp
