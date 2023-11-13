@@ -1,10 +1,13 @@
 ○ 
 	<Reference> 
 
-
 ○ 
 	<Reference> 
 
+
+○ JSON Object Literals
+	<Reference> 
+	https://www.w3schools.com/js/js_json_objects.asp
 
 ○ JSON.stringify()
 	<Reference> 
