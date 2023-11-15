@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JSON Server
+	<Reference> 
+	https://www.w3schools.com/js/js_json_server.asp
+
 ○ JSON Array Literals
 	<Reference> 
 	https://www.w3schools.com/js/js_json_arrays.asp
