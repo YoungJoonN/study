@@ -4,6 +4,10 @@
 ○ 
 	<Reference> 
 
+○ JavaScript / jQuery DOM Selectors
+	<Reference> 
+	https://www.w3schools.com/js/js_jquery_selectors.asp
+
 ○ JSONP
 	<Reference> 
 	https://www.w3schools.com/js/js_json_jsonp.asp
