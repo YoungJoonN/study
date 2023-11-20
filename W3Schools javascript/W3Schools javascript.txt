@@ -4,6 +4,12 @@
 ○ 
 	<Reference> 
 
+
+
+○ JavaScript / jQuery HTML Elements
+	<Reference> 
+	https://www.w3schools.com/js/js_jquery_elements.asp
+
 ○ JavaScript / jQuery DOM Selectors
 	<Reference> 
 	https://www.w3schools.com/js/js_jquery_selectors.asp
