@@ -5,6 +5,9 @@
 	<Reference> 
 
 
+○ JavaScript / jQuery CSS Styles
+	<Reference> 
+	https://www.w3schools.com/js/js_jquery_css.asp
 
 ○ JavaScript / jQuery HTML Elements
 	<Reference> 
