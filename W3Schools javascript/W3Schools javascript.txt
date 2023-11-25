@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ Chart.js
+	<Reference> 
+	https://www.w3schools.com/js/js_graphics_chartjs.asp
+
 ○ Plotly.js
 	<Reference> 
 	https://www.w3schools.com/js/js_graphics_plotly.asp
