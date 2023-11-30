@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript HTML DOM Examples
+	<Reference> 
+	https://www.w3schools.com/js/js_dom_examples.asp
+
 ○ JavaScript Examples
 	<Reference> 
 	https://www.w3schools.com/js/js_examples.asp
