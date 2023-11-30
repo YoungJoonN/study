@@ -5,7 +5,10 @@
 	<Reference> 
 
 
-
+○ JavaScript HTML Input Examples
+	<Reference> 
+	https://www.w3schools.com/js/js_input_examples.asp
+	
 ○ JavaScript HTML DOM Examples
 	<Reference> 
 	https://www.w3schools.com/js/js_dom_examples.asp
