@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript HTML DOM Events Examples
+	<Reference> 
+	https://www.w3schools.com/js/js_events_examples.asp
+
 ○ JavaScript HTML Objects Examples
 	<Reference> 
 	https://www.w3schools.com/js/js_ex_dom.asp
