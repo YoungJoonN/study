@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Browser Objects Examples
+	<Reference> 
+	https://www.w3schools.com/js/js_ex_browser.asp
 
 ○ JavaScript HTML DOM Events Examples
 	<Reference> 
