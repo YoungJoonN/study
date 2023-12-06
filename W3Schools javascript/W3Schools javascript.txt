@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Exercises
+	<Reference> 
+	https://www.w3schools.com/js/js_exercises.asp
+
 ○ JavaScript Online Editor
 	<Reference> 
 	https://www.w3schools.com/js/js_editor.asp
