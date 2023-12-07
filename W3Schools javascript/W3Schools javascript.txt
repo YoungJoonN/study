@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript and HTML Website Hosting
+	<Reference> 
+	https://www.w3schools.com/js/js_website.asp
+
 ○ JavaScript Quiz Test
 	<Reference> 
 	https://www.w3schools.com/js/js_quiz.asp
