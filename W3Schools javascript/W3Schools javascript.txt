@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Reference
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_reference.asp
+
 ○ JavaScript and HTML DOM
 	<Reference> 
 	https://www.w3schools.com/jsref/default.asp
