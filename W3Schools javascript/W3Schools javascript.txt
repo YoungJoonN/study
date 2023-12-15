@@ -4,7 +4,9 @@
 ○ 
 	<Reference> 
 
-
+○ JavaScript Array constructor
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_constructor_array.asp
 
 ○ JavaScript Array concat()
 	<Reference> 
