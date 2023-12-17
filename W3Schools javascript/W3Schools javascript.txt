@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Array copyWithin()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_copywithin.asp
+
 ○ JavaScript Array constructor
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_constructor_array.asp
