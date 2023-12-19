@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array every()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_every.asp
+
 ○ JavaScript Array entries()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_entries.asp
