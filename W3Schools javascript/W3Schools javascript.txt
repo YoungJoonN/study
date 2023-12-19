@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array fill()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_fill.asp
+
 ○ JavaScript Array every()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_every.asp
