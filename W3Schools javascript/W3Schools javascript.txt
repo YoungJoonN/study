@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array filter()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_filter.asp
+
 ○ JavaScript Array fill()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_fill.asp
