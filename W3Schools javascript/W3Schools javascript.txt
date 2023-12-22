@@ -5,6 +5,13 @@
 	<Reference> 
 
 
+
+
+
+○ JavaScript Array find()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_find.asp
+
 ○ JavaScript Array filter()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_filter.asp
