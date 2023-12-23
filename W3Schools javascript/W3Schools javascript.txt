@@ -6,7 +6,9 @@
 
 
 
-
+○ JavaScript Array findIndex()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_findindex.asp
 
 ○ JavaScript Array find()
 	<Reference> 
