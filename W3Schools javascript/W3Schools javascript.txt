@@ -5,6 +5,9 @@
 	<Reference> 
 
 
+○ JavaScript Array flat()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_array_flat.asp
 
 ○ JavaScript Array findIndex()
 	<Reference> 
