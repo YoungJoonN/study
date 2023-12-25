@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array flatMap()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_array_flatmap.asp
+
 ○ JavaScript Array flat()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_array_flat.asp
