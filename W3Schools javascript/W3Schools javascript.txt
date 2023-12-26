@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array forEach()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_foreach.asp
+
 ○ JavaScript Array flatMap()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_array_flatmap.asp
