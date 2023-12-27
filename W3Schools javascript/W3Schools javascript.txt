@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Array.from()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_from.asp
+
 ○ JavaScript Array forEach()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_foreach.asp
