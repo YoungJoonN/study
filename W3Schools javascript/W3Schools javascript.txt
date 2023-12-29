@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array.isArray()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_isarray.asp
+
 ○ JavaScript Array indexOf()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_indexof_array.asp
