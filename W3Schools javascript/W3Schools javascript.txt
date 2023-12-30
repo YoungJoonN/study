@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array join()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_join.asp
+
 ○ JavaScript Array.isArray()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_isarray.asp
