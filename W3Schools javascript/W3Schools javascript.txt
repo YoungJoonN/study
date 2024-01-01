@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array keys()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_keys.asp
+
 ○ JavaScript Array join()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_join.asp
