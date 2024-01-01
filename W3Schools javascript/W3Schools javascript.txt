@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array lastIndexOf()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_lastindexof_array.asp
+
 ○ JavaScript Array keys()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_keys.asp
