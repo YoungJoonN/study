@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Array map()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_map.asp
+
 ○ JavaScript Array length
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_length_array.asp
