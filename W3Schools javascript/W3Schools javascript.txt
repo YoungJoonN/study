@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array pop()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_pop.asp
+
 ○ JavaScript Array.of()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_array_of.asp
