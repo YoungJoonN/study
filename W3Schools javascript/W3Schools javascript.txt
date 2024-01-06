@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array prototype
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_prototype_array.asp
+
 ○ JavaScript Array pop()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_pop.asp
