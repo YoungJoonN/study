@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array push()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_push.asp
+
 ○ JavaScript Array prototype
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_prototype_array.asp
