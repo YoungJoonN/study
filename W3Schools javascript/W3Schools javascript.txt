@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array reduce()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_reduce.asp
+
 ○ JavaScript Array push()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_push.asp
