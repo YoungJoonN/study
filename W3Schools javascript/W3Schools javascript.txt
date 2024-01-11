@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Array reverse()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_reverse.asp
+
 ○ JavaScript Array reduceRight()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_reduceright.asp
