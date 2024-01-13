@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Array some()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_some.asp
+
 ○ JavaScript Array slice()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_slice_array.asp
