@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Array slice()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_slice_array.asp
 
 ○ JavaScript Array shift()
 	<Reference> 
