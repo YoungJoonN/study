@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array sort()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_sort.asp
+
 ○ JavaScript Array some()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_some.asp
