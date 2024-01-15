@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Array splice()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_splice.asp
+
 ○ JavaScript Array sort()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_sort.asp
