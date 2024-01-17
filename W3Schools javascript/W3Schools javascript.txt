@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Array toString()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tostring_array.asp
 
 ○ JavaScript Array splice()
 	<Reference> 
