@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Array valueOf()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_valueof_array.asp
+
 ○ JavaScript Array unshift()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_unshift.asp
