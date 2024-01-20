@@ -5,6 +5,9 @@
 	<Reference> 
 
 
+○ JavaScript Array with()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_array_with.asp
 
 ○ JavaScript Array valueOf()
 	<Reference> 
