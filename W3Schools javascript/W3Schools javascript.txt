@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Boolean constructor
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_constructor_boolean.asp
+
 ○ JavaScript Boolean Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_obj_boolean.asp
