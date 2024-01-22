@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Boolean prototype
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_prototype_boolean.asp
+
 ○ JavaScript Boolean constructor
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_constructor_boolean.asp
