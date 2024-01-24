@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Boolean toString()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tostring_boolean.asp
+
 ○ JavaScript Boolean prototype
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_prototype_boolean.asp
