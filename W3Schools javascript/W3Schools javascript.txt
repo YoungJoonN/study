@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Boolean valueOf()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_valueof_boolean.asp
+
 ○ JavaScript Boolean toString()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_tostring_boolean.asp
