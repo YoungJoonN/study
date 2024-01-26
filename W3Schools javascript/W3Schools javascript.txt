@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Class constructor
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_constructor_class.asp
+
 ○ JavaScript Class Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_classes.asp
