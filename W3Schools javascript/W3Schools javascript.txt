@@ -4,7 +4,9 @@
 ○ 
 	<Reference> 
 
-
+○ JavaScript Class extends
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_class_extends.asp
 
 ○ JavaScript Class constructor
 	<Reference> 
