@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Class static
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_class_static.asp
+
 ○ JavaScript Class extends
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_class_extends.asp
