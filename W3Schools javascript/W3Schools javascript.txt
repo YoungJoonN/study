@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Class super
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_class_super.asp
+
 ○ JavaScript Class static
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_class_static.asp
