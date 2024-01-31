@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date constructor
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_constructor_date.asp
+
 ○ JavaScript Date Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_obj_date.asp
