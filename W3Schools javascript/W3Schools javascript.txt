@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date getDay()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_getday.asp
+
 ○ JavaScript Date getDate()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_getdate.asp
