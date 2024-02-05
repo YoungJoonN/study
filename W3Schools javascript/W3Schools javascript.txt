@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date getHours()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_gethours.asp
+
 ○ JavaScript Date getFullYear()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_getfullyear.asp
