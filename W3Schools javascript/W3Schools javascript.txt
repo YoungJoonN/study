@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Date getMilliseconds()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_getmilliseconds.asp
 
 ○ JavaScript Date getHours()
 	<Reference> 
