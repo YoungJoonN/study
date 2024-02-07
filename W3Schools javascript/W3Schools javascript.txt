@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Date getMinutes()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_getminutes.asp
+
 ○ JavaScript Date getMilliseconds()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_getmilliseconds.asp
