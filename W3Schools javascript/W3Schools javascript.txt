@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date getSeconds()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_getseconds.asp
+
 ○ JavaScript Date getMonth()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_getmonth.asp
