@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Date getTimezoneOffset()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_gettimezoneoffset.asp
+
 ○ JavaScript Date getTime()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_gettime.asp
