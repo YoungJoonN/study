@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date getUTCFullYear()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_getutcfullyear.asp
+
 ○ JavaScript Date getUTCDay()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_getutcday.asp
