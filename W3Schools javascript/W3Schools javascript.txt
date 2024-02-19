@@ -5,6 +5,9 @@
 	<Reference> 
 
 
+○ JavaScript Date.now()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_now.asp
 
 ○ JavaScript Date getUTCSeconds()
 	<Reference> 
