@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Date getUTCSeconds()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_getutcseconds.asp
+	
 ○ JavaScript Date getUTCMonth()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_getutcmonth.asp
