@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Date parse()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_parse.asp
+
 ○ JavaScript Date.now()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_now.asp
