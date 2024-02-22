@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date setDate()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_setdate.asp
+
 ○ JavaScript Date prototype
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_prototype_date.asp
