@@ -5,6 +5,12 @@
 	<Reference> 
 
 
+
+
+○ JavaScript Date setHours()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_sethours.asp
+
 ○ JavaScript Date setFullYear()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_setfullyear.asp
