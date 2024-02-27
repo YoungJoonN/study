@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date setMonth()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_setmonth.asp
+
 ○ JavaScript Date setMinutes()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_setminutes.asp
