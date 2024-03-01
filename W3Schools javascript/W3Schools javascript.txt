@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Date setUTCDate()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_setutcdate.asp
 
 ○ JavaScript Date setTime()
 	<Reference> 
