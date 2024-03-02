@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Date setUTCFullYear()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_setutcfullyear.asp
+
 ○ JavaScript Date setUTCDate()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_setutcdate.asp
