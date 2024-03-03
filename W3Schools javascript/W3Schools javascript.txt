@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Date setUTCHours()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_setutchours.asp
+
 ○ JavaScript Date setUTCFullYear()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_setutcfullyear.asp
