@@ -6,6 +6,10 @@
 
 
 
+○ JavaScript Date setUTCMilliseconds()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_setutcmilliseconds.asp
+	
 ○ JavaScript Date setUTCHours()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_setutchours.asp
