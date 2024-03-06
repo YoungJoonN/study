@@ -4,7 +4,9 @@
 ○ 
 	<Reference> 
 
-
+○ JavaScript Date setUTCMinutes()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_setutcminutes.asp
 
 ○ JavaScript Date setUTCMilliseconds()
 	<Reference> 
