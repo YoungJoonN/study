@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Date setUTCMonth()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_setutcmonth.asp
+
 ○ JavaScript Date setUTCMinutes()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_setutcminutes.asp
