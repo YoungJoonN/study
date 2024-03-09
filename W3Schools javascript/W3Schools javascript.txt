@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript toDateString() Method
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_todatestring.asp
+
 ○ JavaScript Date setUTCSeconds()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_setutcseconds.asp
