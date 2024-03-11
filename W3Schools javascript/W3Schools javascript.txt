@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date toJSON()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tojson.asp
+
 ○ JavaScript Date toISOString()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_toisostring.asp
