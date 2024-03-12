@@ -5,6 +5,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Date toLocaleDateString()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tolocaledatestring.asp	
+
 ○ JavaScript Date toJSON()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_tojson.asp
