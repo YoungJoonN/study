@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Date toLocaleTimeString()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tolocaletimestring.asp
 
 
 ○ JavaScript Date toLocaleDateString()
