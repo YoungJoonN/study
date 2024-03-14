@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Date toString()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tostring_date.asp
+
 ○ JavaScript Date toLocaleString()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_tolocalestring.asp
