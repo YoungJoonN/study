@@ -4,6 +4,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript Date toTimeString()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_totimestring.asp
 
 ○ JavaScript Date toString()
 	<Reference> 
