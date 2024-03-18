@@ -4,6 +4,11 @@
 ○ 
 	<Reference> 
 
+
+○ JavaScript Date.UTC()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_utc.asp
+
 ○ JavaScript Date toUTCString()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_toutcstring.asp
