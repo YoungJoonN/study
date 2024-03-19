@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Date valueOf()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_valueof_date.asp
+
 ○ JavaScript Date.UTC()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_utc.asp
