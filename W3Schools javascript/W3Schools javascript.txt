@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Error name
+	<Reference> 
+	https://www.w3schools.com/jsref/prop_error_name.asp
+
 ○ JavaScript Error Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_obj_error.asp
