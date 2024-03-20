@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Error Reference
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_obj_error.asp
+
 ○ JavaScript Date valueOf()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_valueof_date.asp
