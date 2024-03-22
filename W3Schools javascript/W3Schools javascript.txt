@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript Global Reference
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_obj_global.asp
+
 ○ JavaScript Error message
 	<Reference> 
 	https://www.w3schools.com/jsref/prop_error_message.asp

@@ -3,6 +3,29 @@
 
 
 
+○ Check the best-before-date
+	유통기한을 확인하다.
+
+	out of date
+	유통기한이 지난
+
+	go off/bad
+	상하다
+
+	Mia looked at the best-before date on the carton of eggs to see if they were fresh
+	미아는 계란이 신선한지 보려고 포장재에 표기된 유통기한을 보았다.
+	carton 갑, 한갑, 상자
+
+	Billy discovered that the yogurt he had in the fridge was out of date.
+	fridge 냉장고
+
+	Jane threw away the loaf of bread that had gone bad and started growing mold
+	mold 곰팡이,주형,거푸집
+
+<Reference> 
+https://learn.dict.naver.com/conversation#/endic/20240323?tabIndex=0
+
+
 ○ Do we have to leave a tip?
 	팁을 남겨야 하나
 
@@ -23,7 +46,7 @@
 	멜리사는 배터리가 방전될 수도 있으므로 충전기를 가져왔다.
 
 <Reference> 
-
+https://learn.dict.naver.com/conversation#/endic/20240322?tabIndex=0
 
 
 
