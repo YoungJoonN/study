@@ -5,6 +5,10 @@
 	<Reference> 
 
 
+○ JavaScript decodeURIComponent()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_decodeuricomponent.asp
+
 ○ JavaScript Global Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_obj_global.asp
