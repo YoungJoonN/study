@@ -1,9 +1,12 @@
 ○ 
 	<Reference> 
 
-○ 
-	<Reference> 
 
+
+
+○ JavaScript encodeURI()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_encodeuri.asp
 
 ○ JavaScript decodeURIComponent()
 	<Reference> 
