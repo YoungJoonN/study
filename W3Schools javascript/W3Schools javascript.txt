@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript eval()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_eval.asp
+
 ○ JavaScript escape()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_escape.asp
