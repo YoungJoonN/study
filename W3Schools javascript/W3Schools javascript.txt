@@ -2,6 +2,9 @@
 	<Reference> 
 
 
+○ JavaScript Number()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_number.asp
 
 ○ JavaScript NaN
 	<Reference> 
