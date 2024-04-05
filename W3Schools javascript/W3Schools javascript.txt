@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript String()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_string.asp
+
 ○ JavaScript parseInt()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_parseint.asp
