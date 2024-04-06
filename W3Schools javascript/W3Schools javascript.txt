@@ -2,6 +2,12 @@
 	<Reference> 
 
 
+
+
+○ JavaScript undefined
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_undefined.asp
+
 ○ JavaScript String()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_string.asp

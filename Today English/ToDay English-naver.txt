@@ -3,6 +3,22 @@
 
 
 
+○ Will you be paying by cash or card?
+	현금, 카드 중 어느 것으로 계산하시겠어요?
+
+	pay bye cash/card 현금으로/카드로 지불하다.
+
+	store loyalty card 매장 단골 회원카드
+
+	
+
+
+
+<Reference> 
+https://learn.dict.naver.com/conversation#/endic/20240406?tabIndex=0
+
+
+
 ○ Everything but the kitchen sink
 	필요 이상으로 많은 물건
 	생각나는 거의 모든 것, 아주 다양한 것
