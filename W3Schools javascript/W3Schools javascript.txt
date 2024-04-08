@@ -2,6 +2,12 @@
 	<Reference> 
 
 
+
+
+○ JavaScript JSON parse() Method 
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_parse_json.asp
+
 ○ JavaScript JSON Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_obj_json.asp
