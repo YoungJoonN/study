@@ -2,7 +2,14 @@
 	<Reference> 
 
 
+○ JavaScript JSON Reference
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_obj_json.asp
 
+
+○ JavaScript unescape()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_unescape.asp
 
 ○ JavaScript undefined
 	<Reference> 
