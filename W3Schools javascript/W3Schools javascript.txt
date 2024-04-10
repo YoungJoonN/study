@@ -3,6 +3,9 @@
 
 
 
+○ JavaScript JSON stringify() Method
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_stringify.asp
 
 ○ JavaScript JSON parse() Method 
 	<Reference> 
