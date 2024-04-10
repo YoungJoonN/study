@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math Reference
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_obj_math.asp
+
 ○ JavaScript JSON stringify() Method
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_stringify.asp
