@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.abs()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_abs.asp
+	
 ○ JavaScript Math Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_obj_math.asp
