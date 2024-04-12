@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.acos()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_acos.asp
+
 ○ JavaScript Math.abs()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_abs.asp
