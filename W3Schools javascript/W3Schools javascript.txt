@@ -3,6 +3,11 @@
 
 
 
+
+○ JavaScript Math.asinh()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_asinh.asp
+
 ○ JavaScript Math.asin()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_asin.asp
