@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Math.asin()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_asin.asp
+
 ○ JavaScript Math.acosh()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_acosh.asp
