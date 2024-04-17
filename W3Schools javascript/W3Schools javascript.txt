@@ -2,7 +2,9 @@
 	<Reference> 
 
 
-
+○ JavaScript Math.atan()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_atan.asp
 
 ○ JavaScript Math.asinh()
 	<Reference> 
