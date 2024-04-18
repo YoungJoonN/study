@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Math.atanh()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_atanh.asp
+
 ○ JavaScript Math.atan2()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_atan2.asp

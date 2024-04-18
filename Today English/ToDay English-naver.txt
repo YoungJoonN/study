@@ -2,6 +2,26 @@
 <Reference> 
 
 
+○ How much does your bag weigh?
+	가방 무게가 어떻게 돼?
+
+
+It's under 20kg.
+20kg 미만이야.
+Are you sure? The airline rules are very strict.
+확실해? 항공사 규정이 굉장히 엄격해.
+Actually, I'm not sure.
+사실은 확실하지 않아.
+OK. Let's weigh it.
+좋아. 무게를 재 보자.
+Oh. I don't have any scales!
+아이고, 저울이 하나도 없어!
+
+
+<Reference> 
+https://learn.dict.naver.com/conversation#/endic/20240419?tabIndex=0
+
+
 
 ○ We will have to downsize.
 	더 작은 집을 구해야 할 거야.
