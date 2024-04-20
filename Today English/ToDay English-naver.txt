@@ -2,6 +2,38 @@
 <Reference> 
 
 
+
+
+○ What's your skin type?
+	피부타입이 어떻게 되세요?
+
+I'm looking for some face moisturizer.
+	얼굴에 바를 보습제를 찾고 있어요.
+OK. What's your skin type?
+	알겠습니다. 피부타입이 어떻게 되세요?
+I have acne-prone skin.
+	여드름이 잘 나는 피부예요.
+This is our best seller in moisturizers.
+	이 제품이 저희 보습제 중에서 가장 잘 팔리는 제품입니다.
+Is it good for my skin type?
+	제 피부타입에도 좋을까요?
+Yes, it hydrates the skin but is oil-free.
+	네, 피부에 수분을 공급하지만 유분은 없어요.
+Do you have a sample?
+	샘플 있나요?
+
+
+	acen-prone 여드름이/뾰루지가 잘 나는
+	
+	hydreate 수분을 공급하다
+
+
+
+<Reference> 
+https://learn.dict.naver.com/conversation#/endic/20240420?tabIndex=0
+
+
+
 ○ How much does your bag weigh?
 	가방 무게가 어떻게 돼?
 

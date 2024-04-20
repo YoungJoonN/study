@@ -2,6 +2,9 @@
 	<Reference> 
 
 
+○ https://www.w3schools.com/jsref/jsref_cbrt.asp
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_cbrt.asp
 
 ○ JavaScript Math.atanh()
 	<Reference> 
