@@ -3,6 +3,11 @@
 
 
 
+
+○ JavaScript Math.clz32()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_clz32.asp
+
 ○ JavaScript Math.ceil()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_ceil.asp
