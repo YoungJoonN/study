@@ -3,6 +3,9 @@
 
 
 
+○ JavaScript Math.cos()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_cos.asp
 
 ○ JavaScript Math.clz32()
 	<Reference> 
