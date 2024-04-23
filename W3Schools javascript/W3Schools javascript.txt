@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.cosh()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_cosh.asp
+
 ○ JavaScript Math.cos()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_cos.asp
