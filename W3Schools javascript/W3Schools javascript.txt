@@ -2,6 +2,9 @@
 	<Reference> 
 
 
+○ avaScript Math.E
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_e.asp
 
 ○ JavaScript Math.cosh()
 	<Reference> 
