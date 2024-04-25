@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Math.exp()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_exp.asp
+
 ○ avaScript Math.E
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_e.asp
