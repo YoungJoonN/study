@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.expm1()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_expm1.asp
+
 ○ JavaScript Math.exp()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_exp.asp
