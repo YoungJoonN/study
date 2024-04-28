@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.floor()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_floor.asp
+
 ○ JavaScript Math.expm1()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_expm1.asp
