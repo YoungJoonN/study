@@ -3,6 +3,11 @@
 
 
 
+
+○ JavaScript Math.fround()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_fround.asp
+
 ○ JavaScript Math.floor()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_floor.asp
