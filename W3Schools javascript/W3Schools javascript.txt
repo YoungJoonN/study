@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.LN2
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_ln2.asp
+
 
 ○ JavaScript Math.fround()
 	<Reference> 
