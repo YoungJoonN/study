@@ -2,6 +2,9 @@
 	<Reference> 
 
 
+○ JavaScript Math.LN10
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_ln10.asp
 
 ○ JavaScript Math.LN2
 	<Reference> 
