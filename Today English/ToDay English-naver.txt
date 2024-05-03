@@ -2,6 +2,40 @@
 <Reference> 
 
 
+
+
+○ It can't be helped.
+	해결할 방법이 없어.
+
+
+	sound-proofing 방음 처리
+
+	put up with 견디다, 참다
+
+
+
+
+The sound-proofing in this apartment is terrible.
+이 아파트는 방음이 형편없군.
+I know. I can't put up with all the noise.
+맞아. 난 이 온갖 소음을 참을 수 없어.
+It sounds like someone is jumping up and down on the floor upstairs.
+위층에서 누가 계속 점프하는 것 같은 소리야.
+Should we go up and complain?
+올라가서 한마디 해야 할까?
+Or we could write a note and put it on the front door?
+아니면 그냥 쪽지를 써서 대문에 붙여놓을까?
+Well, if they have young children up there, the noise can't be helped.
+글쎄, 윗집에 어린 애들이 있는 거라면, 소음은 해결할 방법이 없어.
+
+
+
+
+<Reference> 
+https://learn.dict.naver.com/conversation#/endic/20240503?tabIndex=0
+
+
+
 ○ Many hands make light work.
 	백지장도 맞들면 낫다.
 

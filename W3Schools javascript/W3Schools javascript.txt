@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.log10()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_log10.asp
+
 ○ JavaScript Math.log()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_log.asp
