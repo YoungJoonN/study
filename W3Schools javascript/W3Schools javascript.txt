@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Math.LOG10E
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_log10e.asp
+
 ○ JavaScript Math LOG2E
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_log2e.asp
