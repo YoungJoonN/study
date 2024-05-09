@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Math.min()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_min.asp
+
 ○ JavaScript Math.max()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_max.asp
