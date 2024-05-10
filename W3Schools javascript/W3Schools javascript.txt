@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Math.pow()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_pow.asp
+
 ○ JavaScript Math.PI
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_pi.asp
