@@ -2,6 +2,13 @@
 	<Reference> 
 
 
+
+
+
+○ JavaScript Math.random()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_random.asp
+
 ○ JavaScript Math.pow()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_pow.asp
