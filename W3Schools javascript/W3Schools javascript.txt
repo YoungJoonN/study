@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.sign()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_sign.asp
+
 ○ JavaScript Math.round()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_round.asp
