@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.sinh()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_sinh.asp
+
 ○ JavaScript Math.sin()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_sin.asp
