@@ -3,6 +3,11 @@
 
 
 
+
+○ JavaScript Math.sqrt()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_sqrt.asp
+
 ○ JavaScript Math.sinh()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_sinh.asp
