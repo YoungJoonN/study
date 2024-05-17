@@ -4,6 +4,10 @@
 
 
 
+○ JavaScript Math.SQRT1_2
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_sqrt1_2.asp
+
 ○ JavaScript Math.sqrt()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_sqrt.asp
