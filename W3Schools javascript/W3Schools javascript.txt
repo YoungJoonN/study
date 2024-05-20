@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Math.tan()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tan.asp
+
 ○ JavaScript Math.SQRT2
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_sqrt2.asp
