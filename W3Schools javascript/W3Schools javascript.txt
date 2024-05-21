@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Math.tanh()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tanh.asp
+
 ○ JavaScript Math.tan()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_tan.asp
