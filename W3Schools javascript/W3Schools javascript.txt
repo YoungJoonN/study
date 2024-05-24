@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Number constructor
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_constructor_number.asp
+
 ○ JavaScript Number Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_obj_number.asp
