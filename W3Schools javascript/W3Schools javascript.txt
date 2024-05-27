@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Number isInteger()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_isinteger.asp
+
 ○ JavaScript Number isFinite()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_isfinite_number.asp
