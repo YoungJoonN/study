@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Number isSafeInteger()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_issafeinteger.asp
+
 ○ JavaScript Number isNaN()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_isnan_number.asp
