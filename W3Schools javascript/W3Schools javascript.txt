@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript MAX_SAFE_INTEGER
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_max_safe_integer.asp
+
 ○ JavaScript Number isSafeInteger()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_issafeinteger.asp
