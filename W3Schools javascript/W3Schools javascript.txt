@@ -4,6 +4,9 @@
 
 
 
+○ JavaScript Number MAX_VALUE
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_max_value.asp
 
 ○ JavaScript MIN_SAFE_INTEGER
 	<Reference> 
