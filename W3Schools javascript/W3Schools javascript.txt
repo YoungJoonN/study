@@ -4,6 +4,10 @@
 
 
 
+○ JavaScript Number MIN_VALUE
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_min_value.asp
+
 ○ JavaScript Number MAX_VALUE
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_max_value.asp
