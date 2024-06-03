@@ -3,6 +3,9 @@
 
 
 
+○ JavaScript Number NaN
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_number_nan.asp
 
 ○ JavaScript Number MIN_VALUE
 	<Reference> 
