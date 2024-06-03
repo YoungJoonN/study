@@ -3,6 +3,11 @@
 
 
 
+
+○ JavaScript Number NEGATIVE_INFINITY
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_negative_infinity.asp
+
 ○ JavaScript Number NaN
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_number_nan.asp
