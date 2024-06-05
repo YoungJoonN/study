@@ -3,6 +3,9 @@
 
 
 
+○ JavaScript Number POSITIVE_INFINITY
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_positive_infinity.asp
 
 ○ JavaScript Number NEGATIVE_INFINITY
 	<Reference> 
