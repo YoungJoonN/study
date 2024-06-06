@@ -2,6 +2,9 @@
 	<Reference> 
 
 
+○ JavaScript Number.parseFloat()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_number_parsefloat.asp
 
 ○ JavaScript Number POSITIVE_INFINITY
 	<Reference> 
