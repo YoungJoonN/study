@@ -4,6 +4,40 @@
 
 
 
+○ I'm not sure if I'm good enough.
+	제가 자격이 될지 모르겠어요.
+
+
+	I'm not sure if I'm good enough.
+		제가 자격이 될지 모르겠어요.
+
+
+	Why don't you come along and see?
+		와서 보지 그래요?
+
+
+Do you want to join our five-a-side football team?
+우리 5인 축구 팀에 들어오실래요?
+We are recruiting more players.
+선수를 더 모집 중이에요.
+Well, I'm not very good at football. Is it just for fun?
+음, 저는 축구를 잘 못 해요. 그저 재미로 하는 건가요?
+Actually, we take it quite seriously because we play against other company teams.
+사실 다른 회사 팀에 맞서서도 경기하기 때문에 꽤 진지하게 생각하긴 해요.
+Ah. In that case, I'm not sure if I'm good enough.
+아, 그런 거라면, 제가 자격이 될 것 같지 않군요.
+Why don't you come along and see?
+와서 보지 그래요?
+We practice every Saturday morning.
+우린 매주 토요일 아침에 연습을 해요.
+
+
+
+
+<Reference> 
+https://www.w3schools.com/jsref/jsref_number_parseint.asp
+
+
 ○ Is it better to shop online?
 	온라인으로 쇼핑하는 편이 더 나아?
 

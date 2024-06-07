@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Number.parseInt()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_number_parseint.asp
+
 ○ JavaScript Number.parseFloat()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_number_parsefloat.asp
