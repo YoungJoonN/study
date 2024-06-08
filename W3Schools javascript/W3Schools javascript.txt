@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Number prototype
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_prototype_num.asp
+
 ○ JavaScript Number.parseInt()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_number_parseint.asp
