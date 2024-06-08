@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Number toExponential()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_toexponential.asp
+
 ○ JavaScript Number prototype
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_prototype_num.asp
