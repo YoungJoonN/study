@@ -3,6 +3,12 @@
 
 
 
+
+
+○ JavaScript Number toFixed()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tofixed.asp
+
 ○ JavaScript Number toExponential()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_toexponential.asp
