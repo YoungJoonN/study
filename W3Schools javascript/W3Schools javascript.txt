@@ -4,6 +4,9 @@
 
 
 
+○ JavaScript Number toLocaleString()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tolocalestring_number.asp
 
 ○ JavaScript Number toFixed()
 	<Reference> 
