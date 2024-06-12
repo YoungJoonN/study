@@ -3,6 +3,9 @@
 
 
 
+○ JavaScript Number toPrecision()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_toprecision.asp
 
 ○ JavaScript Number toLocaleString()
 	<Reference> 
