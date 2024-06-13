@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Number toString()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_tostring_number.asp
+
 ○ JavaScript Number toPrecision()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_toprecision.asp
