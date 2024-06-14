@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Object Reference
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_obj_object.asp
+
 ○ JavaScript Number valueOf()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_valueof_number.asp
