@@ -2,6 +2,9 @@
 	<Reference> 
 
 
+○ JavaScript Number valueOf()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_valueof_number.asp
 
 ○ JavaScript Number toString()
 	<Reference> 
