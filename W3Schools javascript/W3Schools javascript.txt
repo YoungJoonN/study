@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Object.create()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_create.asp
+
 ○ JavaScript Object constructor
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_constructor.asp
