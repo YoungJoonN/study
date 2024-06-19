@@ -3,20 +3,49 @@
 
 
 
+
+
+
+
+
+
+○ Can you recommend somewhere?
+	어디 추천해 주실 수 있나요?
+
+
+	key to your room 방 열쇠
+
+
+
+
+Here's the key to your room.
+방 열쇠 여기 있습니다.
+I believe breakfast is included?
+조식은 포함된 것 맞죠?
+Yes, breakfast is served between 7am and 10am.
+네, 조식은 아침 7시부터 10시까지 제공됩니다.
+And is the restaurant open now for dinner?
+식당은 지금 저녁 먹을 수 있게 열려 있나요?
+Unfortunately we don't serve dinner.
+아쉽지만 저녁 제공은 하지 않습니다.
+Then can you recommend somewhere nearby to eat?
+그러면 근처에 먹을만한 곳을 추천해 주실 수 있을까요?
+
+
+
+<Reference> 
+https://learn.dict.naver.com/conversation#/endic/20240619?tabIndex=0
+
+
+
 ○ A leak in the roof.
 	지붕누수.
-
-
 
 	mop up 물따위를 훔치다, 착취하다, 해치우다, 소탕하다
 
 	mop 대걸레,자루걸레
 
 	mop somebody/something up ~을 마무리짓다, 해치우다,소탕하다
-
-
-
-
 
 
 Oh no. There's water on the floor.

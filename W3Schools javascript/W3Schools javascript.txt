@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Object.defineProperties()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_defineproperties.asp
+
 ○ JavaScript Object.create()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_create.asp
