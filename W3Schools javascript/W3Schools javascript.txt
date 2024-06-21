@@ -3,6 +3,11 @@
 
 
 
+
+○ JavaScript Object.freeze()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_freeze.asp
+
 ○ JavaScript Object.entries()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_entries.asp
