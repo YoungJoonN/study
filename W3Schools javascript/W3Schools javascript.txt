@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript Object.entries()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_entries.asp
+
 ○ JavaScript Object.defineProperty()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_defineproperty.asp
