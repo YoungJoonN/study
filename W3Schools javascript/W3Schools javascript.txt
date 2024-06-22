@@ -3,6 +3,9 @@
 
 
 
+○ JavaScript Object.fromEntries()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_fromentries.asp
 
 ○ JavaScript Object.freeze()
 	<Reference> 
