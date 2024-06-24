@@ -2,6 +2,9 @@
 	<Reference> 
 
 
+○ Object.getOwnPropertyDescriptor()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_getownpropertydescriptor.asp
 
 ○ JavaScript Object.fromEntries()
 	<Reference> 
