@@ -5,6 +5,16 @@
 
 
 
+
+
+○ https://www.w3schools.com/jsref/jsref_object_groupby.asp
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_groupby.asp
+
+○ Object.getOwnPropertyNames()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_getownpropertynames.asp
+
 ○ Object.getOwnPropertyDescriptors()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_getownpropertydescriptors.asp
