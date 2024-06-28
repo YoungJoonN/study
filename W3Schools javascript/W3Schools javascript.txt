@@ -4,8 +4,9 @@
 
 
 
-
-
+○ JavaScript Object.isExtensible()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_isextensible.asp
 
 ○ https://www.w3schools.com/jsref/jsref_object_groupby.asp
 	<Reference> 
