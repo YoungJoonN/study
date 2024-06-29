@@ -2,6 +2,9 @@
 	<Reference> 
 
 
+○ JavaScript Object.isFrozen()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_isfrozen.asp
 
 
 ○ JavaScript Object.isExtensible()
