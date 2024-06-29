@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ JavaScript Object.isSealed()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_issealed.asp
+	
 ○ JavaScript Object.isFrozen()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_isfrozen.asp
