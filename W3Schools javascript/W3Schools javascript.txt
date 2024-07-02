@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Object.preventExtensions()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_preventextensions.asp
+
 ○ JavaScript Object.keys()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_keys.asp
