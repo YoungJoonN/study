@@ -2,6 +2,11 @@
 	<Reference> 
 
 
+
+○ avaScript Object prototype
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_prototype.asp
+
 ○ JavaScript Object.preventExtensions()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_preventextensions.asp
