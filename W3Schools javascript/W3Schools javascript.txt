@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Object toString()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_tostring.asp
+
 ○ JavaScript Object.seal()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_seal.asp
