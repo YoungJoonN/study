@@ -3,6 +3,11 @@
 
 
 
+
+○ JavaScript Object.values()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_object_values.asp
+
 ○ JavaScript Object valueOf()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_object_valueof.asp
