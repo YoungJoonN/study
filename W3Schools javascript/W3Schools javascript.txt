@@ -2,7 +2,9 @@
 	<Reference> 
 
 
-
+○ JavaScript Operators Reference
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_operators.asp
 
 ○ JavaScript Object.values()
 	<Reference> 
