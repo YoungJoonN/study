@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Operator Precedence
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_precedence.asp
+
 ○ JavaScript Operators Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_operators.asp
