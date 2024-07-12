@@ -4,6 +4,10 @@
 
 
 
+○ JavaScript Promise.all()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_promise_all.asp
+
 ○ JavaScript Promise Object
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_obj_promise.asp
