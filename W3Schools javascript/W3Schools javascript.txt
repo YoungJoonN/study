@@ -2,7 +2,9 @@
 	<Reference> 
 
 
-
+○ JavaScript Promise.allSettled()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_promise_allsettled.asp
 
 ○ JavaScript Promise.all()
 	<Reference> 
