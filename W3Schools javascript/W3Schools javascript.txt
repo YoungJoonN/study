@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Promise finally()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_promise_finally.asp
+
 ○ JavaScript Promise catch()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_promise_catch.asp
