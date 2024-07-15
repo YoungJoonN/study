@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Promise catch()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_promise_catch.asp
+
 ○ JavaScript Promise.any()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_promise_any.asp
