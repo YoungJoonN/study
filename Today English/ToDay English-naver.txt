@@ -3,15 +3,22 @@
 
 
 
+○ There's a row of street stalls.
+	노점상이 줄지어 있어
+
+	stalls 외양간
+	street stall 노점상, 가판대
+
+
+
+
+<Reference> 
+https://learn.dict.naver.com/conversation#/endic/20240718?tabIndex=0
 
 ○ There are too many distrations
-	정신 사남게 하는 게 너무 많아
-
+	정신 사납게 하는 게 너무 많아
 
 	distraction 집중을 방해하는 것, 머리를 식히해 해주는 것, 오락
-
-
-
 
 <Reference> 
 https://learn.dict.naver.com/conversation#/endic/20240717?tabIndex=0
