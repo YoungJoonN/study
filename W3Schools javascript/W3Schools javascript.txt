@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Promise.resolve()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_promise_resolve.asp
+
 ○ JavaScript Promise.reject()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_promise_reject.asp	
