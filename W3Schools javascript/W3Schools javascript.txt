@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript Promise then()
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_promise_then.asp
+
 ○ JavaScript Promise.resolve()
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_promise_resolve.asp
