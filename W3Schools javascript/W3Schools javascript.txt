@@ -1,6 +1,9 @@
 ○ 
 	<Reference> 
 
+○ JavaScript RegExp Reference
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_obj_regexp.asp
 
 ○ JavaScript Promise then()
 	<Reference> 
