@@ -1,6 +1,12 @@
 ○ 
 	<Reference> 
 
+
+
+○ JavaScript RegExp g Modifier
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_regexp_g.asp
+	
 ○ JavaScript RegExp Reference
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_obj_regexp.asp
