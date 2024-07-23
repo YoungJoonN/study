@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript RegExp i Modifier
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_regexp_i.asp
+
 ○ JavaScript RegExp g Modifier
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_regexp_g.asp
