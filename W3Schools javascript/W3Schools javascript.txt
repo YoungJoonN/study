@@ -2,6 +2,9 @@
 	<Reference> 
 
 
+○ JavaScript RegExp m Modifier
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_regexp_m.asp
 
 ○ JavaScript RegExp d Modifier
 	<Reference> 
