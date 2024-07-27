@@ -3,6 +3,9 @@
 
 
 
+○ JavaScript RegExp Group [^abc]
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_regexp_charset_not.asp
 
 ○ JavaScript RegExp Group [abc]
 	<Reference> 
