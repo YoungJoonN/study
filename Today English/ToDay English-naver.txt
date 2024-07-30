@@ -4,6 +4,18 @@
 
 
 
+○ It looks like we have a leak
+	누수가 있는 것 같아 보여.
+
+	have a leak 물이 새다, 오줌을 누다
+	water supply 급수,상수도, 급수관
+	drainpipe 하수관	
+
+	plumber  배관곤
+
+<Reference> 
+https://learn.dict.naver.com/conversation#/endic/20240730?tabIndex=0
+
 ○ I'm going to drop out.
 	나 자퇴하려고 해.
 

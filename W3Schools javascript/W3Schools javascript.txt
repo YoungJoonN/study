@@ -2,6 +2,10 @@
 	<Reference> 
 
 
+○ JavaScript RegExp Group (x|y)
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_regexp_xy.asp
+
 ○ JavaScript RegExp Group [^0-9]
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_regexp_not_0-9.asp
