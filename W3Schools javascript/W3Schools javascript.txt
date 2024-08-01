@@ -3,6 +3,10 @@
 
 
 
+○ JavaScript RegExp \w Metacharacter
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_regexp_wordchar.asp
+
 ○ JavaScript RegExp . Metacharacter
 	<Reference> 
 	https://www.w3schools.com/jsref/jsref_regexp_dot.asp
