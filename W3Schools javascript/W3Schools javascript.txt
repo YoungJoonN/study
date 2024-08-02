@@ -1,7 +1,9 @@
 ○ 
 	<Reference> 
 
-
+○ JavaScript RegExp \W Metacharacter
+	<Reference> 
+	https://www.w3schools.com/jsref/jsref_regexp_wordchar_non.asp
 
 ○ JavaScript RegExp \w Metacharacter
 	<Reference> 
